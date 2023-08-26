@@ -1,0 +1,9002 @@
+[
+  {
+    "id": 1,
+    "manufacturer": "Ford",
+    "year": 2004,
+    "model": "Focus",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 2,
+    "manufacturer": "Lamborghini",
+    "year": 2008,
+    "model": "Murciélago",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 3,
+    "manufacturer": "Hummer",
+    "year": 2000,
+    "model": "H1",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 4,
+    "manufacturer": "Lexus",
+    "year": 2001,
+    "model": "GS",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 5,
+    "manufacturer": "GMC",
+    "year": 2011,
+    "model": "Savana 2500",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 6,
+    "manufacturer": "Ford",
+    "year": 1999,
+    "model": "Crown Victoria",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 7,
+    "manufacturer": "Ford",
+    "year": 2009,
+    "model": "E-Series",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 8,
+    "manufacturer": "Honda",
+    "year": 1996,
+    "model": "Odyssey",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 9,
+    "manufacturer": "Oldsmobile",
+    "year": 2000,
+    "model": "Bravada",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 10,
+    "manufacturer": "Dodge",
+    "year": 1993,
+    "model": "D250 Club",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 11,
+    "manufacturer": "Ford",
+    "year": 2010,
+    "model": "F150",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 12,
+    "manufacturer": "Audi",
+    "year": 2011,
+    "model": "Q5",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 13,
+    "manufacturer": "Suzuki",
+    "year": 2005,
+    "model": "Forenza",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 14,
+    "manufacturer": "Ford",
+    "year": 1990,
+    "model": "Aerostar",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 15,
+    "manufacturer": "Chevrolet",
+    "year": 2003,
+    "model": "Suburban 1500",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 16,
+    "manufacturer": "Mazda",
+    "year": 2002,
+    "model": "626",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 17,
+    "manufacturer": "Mercedes-Benz",
+    "year": 1984,
+    "model": "S-Class",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 18,
+    "manufacturer": "Ford",
+    "year": 1991,
+    "model": "Mustang",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 19,
+    "manufacturer": "Pontiac",
+    "year": 1990,
+    "model": "LeMans",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 20,
+    "manufacturer": "Mercury",
+    "year": 1990,
+    "model": "Cougar",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 21,
+    "manufacturer": "Volkswagen",
+    "year": 2011,
+    "model": "Eos",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 22,
+    "manufacturer": "Chevrolet",
+    "year": 1993,
+    "model": "G-Series G20",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 23,
+    "manufacturer": "Ford",
+    "year": 1989,
+    "model": "Laser",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 24,
+    "manufacturer": "Ford",
+    "year": 2013,
+    "model": "Focus ST",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 25,
+    "manufacturer": "Mazda",
+    "year": 1995,
+    "model": "Miata MX-5",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 26,
+    "manufacturer": "Ford",
+    "year": 1997,
+    "model": "Windstar",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 27,
+    "manufacturer": "BMW",
+    "year": 2008,
+    "model": "5 Series",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 28,
+    "manufacturer": "Mitsubishi",
+    "year": 2011,
+    "model": "Endeavor",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 29,
+    "manufacturer": "Jaguar",
+    "year": 1993,
+    "model": "XJ Series",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 30,
+    "manufacturer": "Lincoln",
+    "year": 2007,
+    "model": "Town Car",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 31,
+    "manufacturer": "GMC",
+    "year": 2000,
+    "model": "Jimmy",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 32,
+    "manufacturer": "Pontiac",
+    "year": 1964,
+    "model": "LeMans",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 33,
+    "manufacturer": "Dodge",
+    "year": 2004,
+    "model": "Ram 2500",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 34,
+    "manufacturer": "Subaru",
+    "year": 1994,
+    "model": "Impreza",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 35,
+    "manufacturer": "Toyota",
+    "year": 2006,
+    "model": "Matrix",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 36,
+    "manufacturer": "Chevrolet",
+    "year": 1973,
+    "model": "Camaro",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 37,
+    "manufacturer": "Chevrolet",
+    "year": 1994,
+    "model": "Blazer",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 38,
+    "manufacturer": "Buick",
+    "year": 2011,
+    "model": "Regal",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 39,
+    "manufacturer": "GMC",
+    "year": 1999,
+    "model": "1500 Club Coupe",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 40,
+    "manufacturer": "Mazda",
+    "year": 2012,
+    "model": "Miata MX-5",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 41,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2003,
+    "model": "C-Class",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 42,
+    "manufacturer": "Volkswagen",
+    "year": 2006,
+    "model": "Touareg",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 43,
+    "manufacturer": "Lexus",
+    "year": 2013,
+    "model": "GS",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 44,
+    "manufacturer": "Honda",
+    "year": 2006,
+    "model": "CR-V",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 45,
+    "manufacturer": "Nissan",
+    "year": 1998,
+    "model": "Frontier",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 46,
+    "manufacturer": "Honda",
+    "year": 2003,
+    "model": "Odyssey",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 47,
+    "manufacturer": "Nissan",
+    "year": 2009,
+    "model": "Quest",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 48,
+    "manufacturer": "BMW",
+    "year": 2008,
+    "model": "X5",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 49,
+    "manufacturer": "Honda",
+    "year": 2009,
+    "model": "CR-V",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 50,
+    "manufacturer": "Honda",
+    "year": 2010,
+    "model": "Accord",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 51,
+    "manufacturer": "Chevrolet",
+    "year": 2012,
+    "model": "Express 1500",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 52,
+    "manufacturer": "Buick",
+    "year": 1997,
+    "model": "Park Avenue",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 53,
+    "manufacturer": "BMW",
+    "year": 2012,
+    "model": "1 Series",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 54,
+    "manufacturer": "Pontiac",
+    "year": 1996,
+    "model": "Trans Sport",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 55,
+    "manufacturer": "Jeep",
+    "year": 1995,
+    "model": "Cherokee",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 56,
+    "manufacturer": "Ford",
+    "year": 1986,
+    "model": "Escort",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 57,
+    "manufacturer": "Lincoln",
+    "year": 1991,
+    "model": "Continental",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 58,
+    "manufacturer": "Mercury",
+    "year": 1996,
+    "model": "Cougar",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 59,
+    "manufacturer": "Ford",
+    "year": 1991,
+    "model": "Festiva",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 60,
+    "manufacturer": "BMW",
+    "year": 2002,
+    "model": "530",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 61,
+    "manufacturer": "Dodge",
+    "year": 2010,
+    "model": "Viper",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 62,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2004,
+    "model": "CL-Class",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 63,
+    "manufacturer": "Jaguar",
+    "year": 2012,
+    "model": "XJ",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 64,
+    "manufacturer": "Lincoln",
+    "year": 2005,
+    "model": "Town Car",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 65,
+    "manufacturer": "Chevrolet",
+    "year": 2003,
+    "model": "Impala",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 66,
+    "manufacturer": "Mercury",
+    "year": 1993,
+    "model": "Tracer",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 67,
+    "manufacturer": "BMW",
+    "year": 2012,
+    "model": "X6",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 68,
+    "manufacturer": "GMC",
+    "year": 1993,
+    "model": "1500 Club Coupe",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 69,
+    "manufacturer": "Land Rover",
+    "year": 2011,
+    "model": "LR4",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 70,
+    "manufacturer": "Volkswagen",
+    "year": 2000,
+    "model": "Eurovan",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 71,
+    "manufacturer": "Toyota",
+    "year": 2005,
+    "model": "Highlander",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 72,
+    "manufacturer": "Bentley",
+    "year": 2008,
+    "model": "Continental",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 73,
+    "manufacturer": "Mazda",
+    "year": 2006,
+    "model": "Mazda6",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 74,
+    "manufacturer": "Dodge",
+    "year": 1996,
+    "model": "Intrepid",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 75,
+    "manufacturer": "Hyundai",
+    "year": 1998,
+    "model": "Accent",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 76,
+    "manufacturer": "Ford",
+    "year": 2005,
+    "model": "F-Series",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 77,
+    "manufacturer": "Audi",
+    "year": 2008,
+    "model": "RS4",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 78,
+    "manufacturer": "Honda",
+    "year": 1998,
+    "model": "CR-V",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 79,
+    "manufacturer": "Saab",
+    "year": 2002,
+    "model": "9-3",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 80,
+    "manufacturer": "Dodge",
+    "year": 1995,
+    "model": "Ram 2500 Club",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 81,
+    "manufacturer": "BMW",
+    "year": 2009,
+    "model": "1 Series",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 82,
+    "manufacturer": "Infiniti",
+    "year": 2005,
+    "model": "QX",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 83,
+    "manufacturer": "Buick",
+    "year": 1993,
+    "model": "Skylark",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 84,
+    "manufacturer": "Land Rover",
+    "year": 1999,
+    "model": "Discovery",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 85,
+    "manufacturer": "Mitsubishi",
+    "year": 2004,
+    "model": "Pajero",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 86,
+    "manufacturer": "Cadillac",
+    "year": 2008,
+    "model": "SRX",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 87,
+    "manufacturer": "Nissan",
+    "year": 2006,
+    "model": "Xterra",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 88,
+    "manufacturer": "Mazda",
+    "year": 2011,
+    "model": "Mazda3",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 89,
+    "manufacturer": "Dodge",
+    "year": 2005,
+    "model": "Magnum",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 90,
+    "manufacturer": "Nissan",
+    "year": 2012,
+    "model": "370Z",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 91,
+    "manufacturer": "Dodge",
+    "year": 1997,
+    "model": "Viper",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 92,
+    "manufacturer": "Geo",
+    "year": 1994,
+    "model": "Metro",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 93,
+    "manufacturer": "Ford",
+    "year": 2007,
+    "model": "Edge",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 94,
+    "manufacturer": "Hyundai",
+    "year": 2005,
+    "model": "Santa Fe",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 95,
+    "manufacturer": "Cadillac",
+    "year": 2012,
+    "model": "CTS-V",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 96,
+    "manufacturer": "Hyundai",
+    "year": 2005,
+    "model": "Sonata",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 97,
+    "manufacturer": "Ford",
+    "year": 1996,
+    "model": "Mustang",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 98,
+    "manufacturer": "Buick",
+    "year": 2001,
+    "model": "Park Avenue",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 99,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2011,
+    "model": "M-Class",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 100,
+    "manufacturer": "Maybach",
+    "year": 2007,
+    "model": "62",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 101,
+    "manufacturer": "Nissan",
+    "year": 1997,
+    "model": "Maxima",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 102,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2000,
+    "model": "C-Class",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 103,
+    "manufacturer": "Dodge",
+    "year": 1996,
+    "model": "Ram 3500 Club",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 104,
+    "manufacturer": "Audi",
+    "year": 2004,
+    "model": "A8",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 105,
+    "manufacturer": "Porsche",
+    "year": 1992,
+    "model": "968",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 106,
+    "manufacturer": "Buick",
+    "year": 1989,
+    "model": "Century",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 107,
+    "manufacturer": "Mitsubishi",
+    "year": 1988,
+    "model": "Truck",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 108,
+    "manufacturer": "Audi",
+    "year": 2001,
+    "model": "Allroad",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 109,
+    "manufacturer": "GMC",
+    "year": 2006,
+    "model": "Envoy",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 110,
+    "manufacturer": "BMW",
+    "year": 2005,
+    "model": "745",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 111,
+    "manufacturer": "Chevrolet",
+    "year": 1994,
+    "model": "Suburban 2500",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 112,
+    "manufacturer": "Chevrolet",
+    "year": 2013,
+    "model": "Malibu",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 113,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2008,
+    "model": "GL-Class",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 114,
+    "manufacturer": "BMW",
+    "year": 2004,
+    "model": "645",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 115,
+    "manufacturer": "Mitsubishi",
+    "year": 1992,
+    "model": "Diamante",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 116,
+    "manufacturer": "Chevrolet",
+    "year": 2000,
+    "model": "Metro",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 117,
+    "manufacturer": "Ford",
+    "year": 2005,
+    "model": "Escape",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 118,
+    "manufacturer": "Eagle",
+    "year": 1990,
+    "model": "Talon",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 119,
+    "manufacturer": "Oldsmobile",
+    "year": 1996,
+    "model": "Silhouette",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 120,
+    "manufacturer": "Chevrolet",
+    "year": 2005,
+    "model": "Malibu",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 121,
+    "manufacturer": "Nissan",
+    "year": 1992,
+    "model": "NX",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 122,
+    "manufacturer": "Chevrolet",
+    "year": 2001,
+    "model": "Silverado",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 123,
+    "manufacturer": "Mitsubishi",
+    "year": 2011,
+    "model": "Outlander Sport",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 124,
+    "manufacturer": "Audi",
+    "year": 2006,
+    "model": "A3",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 125,
+    "manufacturer": "Suzuki",
+    "year": 2001,
+    "model": "Vitara",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 126,
+    "manufacturer": "Pontiac",
+    "year": 1988,
+    "model": "Bonneville",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 127,
+    "manufacturer": "Pontiac",
+    "year": 1991,
+    "model": "LeMans",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 128,
+    "manufacturer": "Acura",
+    "year": 2004,
+    "model": "TL",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 129,
+    "manufacturer": "Maserati",
+    "year": 1989,
+    "model": "Spyder",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 130,
+    "manufacturer": "Lexus",
+    "year": 2004,
+    "model": "ES",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 131,
+    "manufacturer": "Porsche",
+    "year": 2004,
+    "model": "Boxster",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 132,
+    "manufacturer": "Ford",
+    "year": 1996,
+    "model": "Contour",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 133,
+    "manufacturer": "Jeep",
+    "year": 2006,
+    "model": "Grand Cherokee",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 134,
+    "manufacturer": "Ford",
+    "year": 2002,
+    "model": "Explorer Sport",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 135,
+    "manufacturer": "Mercury",
+    "year": 1984,
+    "model": "Topaz",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 136,
+    "manufacturer": "Subaru",
+    "year": 2012,
+    "model": "Tribeca",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 137,
+    "manufacturer": "Toyota",
+    "year": 1994,
+    "model": "T100",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 138,
+    "manufacturer": "Audi",
+    "year": 2002,
+    "model": "S4",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 139,
+    "manufacturer": "BMW",
+    "year": 2003,
+    "model": "3 Series",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 140,
+    "manufacturer": "Eagle",
+    "year": 1996,
+    "model": "Summit",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 141,
+    "manufacturer": "Toyota",
+    "year": 2008,
+    "model": "Tacoma",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 142,
+    "manufacturer": "Chrysler",
+    "year": 2006,
+    "model": "Sebring",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 143,
+    "manufacturer": "Audi",
+    "year": 2006,
+    "model": "S8",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 144,
+    "manufacturer": "Ford",
+    "year": 2005,
+    "model": "Mustang",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 145,
+    "manufacturer": "Ford",
+    "year": 2004,
+    "model": "Crown Victoria",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 146,
+    "manufacturer": "Volvo",
+    "year": 2009,
+    "model": "S40",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 147,
+    "manufacturer": "Ford",
+    "year": 2005,
+    "model": "Explorer Sport Trac",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 148,
+    "manufacturer": "Maybach",
+    "year": 2006,
+    "model": "62",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 149,
+    "manufacturer": "Land Rover",
+    "year": 2003,
+    "model": "Freelander",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 150,
+    "manufacturer": "Subaru",
+    "year": 1993,
+    "model": "Alcyone SVX",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 151,
+    "manufacturer": "Chrysler",
+    "year": 2002,
+    "model": "Town & Country",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 152,
+    "manufacturer": "Mitsubishi",
+    "year": 2003,
+    "model": "Outlander",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 153,
+    "manufacturer": "Dodge",
+    "year": 1993,
+    "model": "Shadow",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 154,
+    "manufacturer": "Ford",
+    "year": 2011,
+    "model": "E150",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 155,
+    "manufacturer": "Holden",
+    "year": 2004,
+    "model": "Monaro",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 156,
+    "manufacturer": "Acura",
+    "year": 2009,
+    "model": "MDX",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 157,
+    "manufacturer": "Cadillac",
+    "year": 2005,
+    "model": "SRX",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 158,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2009,
+    "model": "C-Class",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 159,
+    "manufacturer": "Kia",
+    "year": 2007,
+    "model": "Rio",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 160,
+    "manufacturer": "Dodge",
+    "year": 2004,
+    "model": "Neon",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 161,
+    "manufacturer": "Volkswagen",
+    "year": 2009,
+    "model": "Eos",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 162,
+    "manufacturer": "Toyota",
+    "year": 2001,
+    "model": "Echo",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 163,
+    "manufacturer": "Honda",
+    "year": 2008,
+    "model": "S2000",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 164,
+    "manufacturer": "Saab",
+    "year": 2006,
+    "model": "9-2X",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 165,
+    "manufacturer": "Chevrolet",
+    "year": 1992,
+    "model": "Lumina",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 166,
+    "manufacturer": "BMW",
+    "year": 2005,
+    "model": "X5",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 167,
+    "manufacturer": "Acura",
+    "year": 2008,
+    "model": "MDX",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 168,
+    "manufacturer": "Nissan",
+    "year": 2009,
+    "model": "Versa",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 169,
+    "manufacturer": "Mazda",
+    "year": 2011,
+    "model": "Mazdaspeed 3",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 170,
+    "manufacturer": "Lotus",
+    "year": 2002,
+    "model": "Esprit",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 171,
+    "manufacturer": "Acura",
+    "year": 1998,
+    "model": "RL",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 172,
+    "manufacturer": "Volkswagen",
+    "year": 1996,
+    "model": "Jetta",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 173,
+    "manufacturer": "Mazda",
+    "year": 2006,
+    "model": "Mazdaspeed6",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 174,
+    "manufacturer": "Mercedes-Benz",
+    "year": 1991,
+    "model": "SL-Class",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 175,
+    "manufacturer": "Porsche",
+    "year": 1993,
+    "model": "928",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 176,
+    "manufacturer": "Isuzu",
+    "year": 1996,
+    "model": "Rodeo",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 177,
+    "manufacturer": "Bentley",
+    "year": 2007,
+    "model": "Continental Flying Spur",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 178,
+    "manufacturer": "Chevrolet",
+    "year": 2009,
+    "model": "Avalanche",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 179,
+    "manufacturer": "Mazda",
+    "year": 2004,
+    "model": "RX-8",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 180,
+    "manufacturer": "BMW",
+    "year": 2012,
+    "model": "7 Series",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 181,
+    "manufacturer": "Eagle",
+    "year": 1994,
+    "model": "Talon",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 182,
+    "manufacturer": "Dodge",
+    "year": 2000,
+    "model": "Ram 1500",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 183,
+    "manufacturer": "Subaru",
+    "year": 2008,
+    "model": "Outback",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 184,
+    "manufacturer": "GMC",
+    "year": 1997,
+    "model": "Sonoma Club Coupe",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 185,
+    "manufacturer": "Saab",
+    "year": 2010,
+    "model": "9-3",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 186,
+    "manufacturer": "GMC",
+    "year": 2004,
+    "model": "Sierra 3500",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 187,
+    "manufacturer": "Ford",
+    "year": 1995,
+    "model": "F150",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 188,
+    "manufacturer": "Volkswagen",
+    "year": 1994,
+    "model": "Golf III",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 189,
+    "manufacturer": "Volvo",
+    "year": 2010,
+    "model": "V50",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 190,
+    "manufacturer": "GMC",
+    "year": 2001,
+    "model": "Savana 2500",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 191,
+    "manufacturer": "GMC",
+    "year": 2003,
+    "model": "Envoy",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 192,
+    "manufacturer": "Mitsubishi",
+    "year": 2010,
+    "model": "Lancer",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 193,
+    "manufacturer": "Mercury",
+    "year": 2002,
+    "model": "Grand Marquis",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 194,
+    "manufacturer": "Dodge",
+    "year": 1999,
+    "model": "Ram Van 3500",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 195,
+    "manufacturer": "GMC",
+    "year": 2005,
+    "model": "Yukon XL 2500",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 196,
+    "manufacturer": "Ford",
+    "year": 1964,
+    "model": "Mustang",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 197,
+    "manufacturer": "Mercedes-Benz",
+    "year": 1997,
+    "model": "SLK-Class",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 198,
+    "manufacturer": "Chrysler",
+    "year": 1998,
+    "model": "Concorde",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 199,
+    "manufacturer": "Lotus",
+    "year": 2007,
+    "model": "Elise",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 200,
+    "manufacturer": "Land Rover",
+    "year": 1993,
+    "model": "Defender",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 201,
+    "manufacturer": "Lincoln",
+    "year": 1998,
+    "model": "Town Car",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 202,
+    "manufacturer": "BMW",
+    "year": 2007,
+    "model": "M6",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 203,
+    "manufacturer": "Alfa Romeo",
+    "year": 1993,
+    "model": "Spider",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 204,
+    "manufacturer": "Ford",
+    "year": 2000,
+    "model": "Explorer",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 205,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2010,
+    "model": "Sprinter",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 206,
+    "manufacturer": "Mitsubishi",
+    "year": 1987,
+    "model": "Mirage",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 207,
+    "manufacturer": "Hyundai",
+    "year": 2010,
+    "model": "Elantra",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 208,
+    "manufacturer": "Chevrolet",
+    "year": 2012,
+    "model": "Camaro",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 209,
+    "manufacturer": "Nissan",
+    "year": 2010,
+    "model": "Titan",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 210,
+    "manufacturer": "Suzuki",
+    "year": 2004,
+    "model": "XL-7",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 211,
+    "manufacturer": "Lexus",
+    "year": 2009,
+    "model": "ES",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 212,
+    "manufacturer": "GMC",
+    "year": 2012,
+    "model": "Sierra",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 213,
+    "manufacturer": "GMC",
+    "year": 2003,
+    "model": "Yukon XL 1500",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 214,
+    "manufacturer": "Toyota",
+    "year": 2005,
+    "model": "Prius",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 215,
+    "manufacturer": "Ford",
+    "year": 1992,
+    "model": "Probe",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 216,
+    "manufacturer": "BMW",
+    "year": 2012,
+    "model": "1 Series",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 217,
+    "manufacturer": "Nissan",
+    "year": 2007,
+    "model": "Pathfinder",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 218,
+    "manufacturer": "Ferrari",
+    "year": 2010,
+    "model": "458 Italia",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 219,
+    "manufacturer": "Porsche",
+    "year": 2013,
+    "model": "Cayenne",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 220,
+    "manufacturer": "Mercedes-Benz",
+    "year": 1996,
+    "model": "C-Class",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 221,
+    "manufacturer": "Dodge",
+    "year": 2000,
+    "model": "Stratus",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 222,
+    "manufacturer": "Kia",
+    "year": 1998,
+    "model": "Sportage",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 223,
+    "manufacturer": "Audi",
+    "year": 1994,
+    "model": "riolet",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 224,
+    "manufacturer": "Cadillac",
+    "year": 2004,
+    "model": "Seville",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 225,
+    "manufacturer": "Chevrolet",
+    "year": 1994,
+    "model": "3500",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 226,
+    "manufacturer": "Mercedes-Benz",
+    "year": 1987,
+    "model": "E-Class",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 227,
+    "manufacturer": "Hyundai",
+    "year": 1992,
+    "model": "Elantra",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 228,
+    "manufacturer": "Volkswagen",
+    "year": 2005,
+    "model": "New Beetle",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 229,
+    "manufacturer": "Mitsubishi",
+    "year": 1996,
+    "model": "Expo LRV",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 230,
+    "manufacturer": "Suzuki",
+    "year": 2005,
+    "model": "Aerio",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 231,
+    "manufacturer": "Chevrolet",
+    "year": 1993,
+    "model": "G-Series G30",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 232,
+    "manufacturer": "Mercury",
+    "year": 1984,
+    "model": "Marquis",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 233,
+    "manufacturer": "Land Rover",
+    "year": 2007,
+    "model": "LR3",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 234,
+    "manufacturer": "Chrysler",
+    "year": 2008,
+    "model": "Crossfire",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 235,
+    "manufacturer": "Mitsubishi",
+    "year": 1993,
+    "model": "Diamante",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 236,
+    "manufacturer": "Audi",
+    "year": 1988,
+    "model": "80/90",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 237,
+    "manufacturer": "Mazda",
+    "year": 2001,
+    "model": "B-Series",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 238,
+    "manufacturer": "Chrysler",
+    "year": 2011,
+    "model": "200",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 239,
+    "manufacturer": "Subaru",
+    "year": 2011,
+    "model": "Legacy",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 240,
+    "manufacturer": "Isuzu",
+    "year": 1995,
+    "model": "Rodeo",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 241,
+    "manufacturer": "Lincoln",
+    "year": 2002,
+    "model": "LS",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 242,
+    "manufacturer": "Volvo",
+    "year": 2012,
+    "model": "S80",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 243,
+    "manufacturer": "Rolls-Royce",
+    "year": 2008,
+    "model": "Phantom",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 244,
+    "manufacturer": "Acura",
+    "year": 2008,
+    "model": "RL",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 245,
+    "manufacturer": "Jaguar",
+    "year": 2011,
+    "model": "XJ",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 246,
+    "manufacturer": "Buick",
+    "year": 1997,
+    "model": "Century",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 247,
+    "manufacturer": "Geo",
+    "year": 1993,
+    "model": "Metro",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 248,
+    "manufacturer": "Ford",
+    "year": 1990,
+    "model": "Bronco II",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 249,
+    "manufacturer": "Hyundai",
+    "year": 1997,
+    "model": "Tiburon",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 250,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2003,
+    "model": "S-Class",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 251,
+    "manufacturer": "Subaru",
+    "year": 1985,
+    "model": "Leone",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 252,
+    "manufacturer": "Saab",
+    "year": 2009,
+    "model": "9-3",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 253,
+    "manufacturer": "Porsche",
+    "year": 1991,
+    "model": "911",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 254,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2012,
+    "model": "S-Class",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 255,
+    "manufacturer": "Isuzu",
+    "year": 1993,
+    "model": "Amigo",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 256,
+    "manufacturer": "Chevrolet",
+    "year": 2005,
+    "model": "Malibu",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 257,
+    "manufacturer": "Buick",
+    "year": 1991,
+    "model": "Riviera",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 258,
+    "manufacturer": "Aptera",
+    "year": 2008,
+    "model": "Typ-1",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 259,
+    "manufacturer": "Oldsmobile",
+    "year": 1994,
+    "model": "Achieva",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 260,
+    "manufacturer": "Isuzu",
+    "year": 2004,
+    "model": "Axiom",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 261,
+    "manufacturer": "Cadillac",
+    "year": 2008,
+    "model": "STS",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 262,
+    "manufacturer": "Chevrolet",
+    "year": 1998,
+    "model": "Express 1500",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 263,
+    "manufacturer": "Mitsubishi",
+    "year": 1985,
+    "model": "Cordia",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 264,
+    "manufacturer": "GMC",
+    "year": 1999,
+    "model": "1500 Club Coupe",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 265,
+    "manufacturer": "Acura",
+    "year": 1995,
+    "model": "Legend",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 266,
+    "manufacturer": "Toyota",
+    "year": 1996,
+    "model": "4Runner",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 267,
+    "manufacturer": "Ford",
+    "year": 2004,
+    "model": "F350",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 268,
+    "manufacturer": "Volkswagen",
+    "year": 2004,
+    "model": "GTI",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 269,
+    "manufacturer": "Saab",
+    "year": 1988,
+    "model": "9000",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 270,
+    "manufacturer": "Dodge",
+    "year": 2006,
+    "model": "Magnum",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 271,
+    "manufacturer": "Buick",
+    "year": 1994,
+    "model": "Park Avenue",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 272,
+    "manufacturer": "Mitsubishi",
+    "year": 2001,
+    "model": "Montero",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 273,
+    "manufacturer": "Ford",
+    "year": 1989,
+    "model": "Bronco",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 274,
+    "manufacturer": "Mercury",
+    "year": 2001,
+    "model": "Mountaineer",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 275,
+    "manufacturer": "Dodge",
+    "year": 1993,
+    "model": "D350 Club",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 276,
+    "manufacturer": "Volvo",
+    "year": 2008,
+    "model": "XC70",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 277,
+    "manufacturer": "Chevrolet",
+    "year": 1997,
+    "model": "Suburban 2500",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 278,
+    "manufacturer": "Mazda",
+    "year": 2012,
+    "model": "Mazda5",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 279,
+    "manufacturer": "Volkswagen",
+    "year": 1992,
+    "model": "riolet",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 280,
+    "manufacturer": "Saab",
+    "year": 1999,
+    "model": "900",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 281,
+    "manufacturer": "Saturn",
+    "year": 2010,
+    "model": "Outlook",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 282,
+    "manufacturer": "Mazda",
+    "year": 1992,
+    "model": "323",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 283,
+    "manufacturer": "Isuzu",
+    "year": 1993,
+    "model": "Space",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 284,
+    "manufacturer": "Hyundai",
+    "year": 2006,
+    "model": "Elantra",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 285,
+    "manufacturer": "Ford",
+    "year": 1985,
+    "model": "EXP",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 286,
+    "manufacturer": "Oldsmobile",
+    "year": 1993,
+    "model": "Cutlass Supreme",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 287,
+    "manufacturer": "Mazda",
+    "year": 2001,
+    "model": "Protege",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 288,
+    "manufacturer": "Lexus",
+    "year": 1996,
+    "model": "SC",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 289,
+    "manufacturer": "Toyota",
+    "year": 2006,
+    "model": "RAV4",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 290,
+    "manufacturer": "Nissan",
+    "year": 1992,
+    "model": "NX",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 291,
+    "manufacturer": "Ford",
+    "year": 1990,
+    "model": "Ranger",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 292,
+    "manufacturer": "Daewoo",
+    "year": 2002,
+    "model": "Lanos",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 293,
+    "manufacturer": "Lexus",
+    "year": 2009,
+    "model": "GX",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 294,
+    "manufacturer": "Hummer",
+    "year": 2004,
+    "model": "H2",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 295,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2011,
+    "model": "CLS-Class",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 296,
+    "manufacturer": "Chrysler",
+    "year": 1992,
+    "model": "Town & Country",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 297,
+    "manufacturer": "Mazda",
+    "year": 2007,
+    "model": "Miata MX-5",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 298,
+    "manufacturer": "Chevrolet",
+    "year": 1998,
+    "model": "Suburban 2500",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 299,
+    "manufacturer": "Subaru",
+    "year": 2008,
+    "model": "Tribeca",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 300,
+    "manufacturer": "Chevrolet",
+    "year": 2008,
+    "model": "Silverado 1500",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 301,
+    "manufacturer": "Jeep",
+    "year": 1996,
+    "model": "Grand Cherokee",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 302,
+    "manufacturer": "BMW",
+    "year": 2004,
+    "model": "530",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 303,
+    "manufacturer": "GMC",
+    "year": 2006,
+    "model": "Savana 1500",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 304,
+    "manufacturer": "Ford",
+    "year": 2012,
+    "model": "E250",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 305,
+    "manufacturer": "Mercedes-Benz",
+    "year": 1993,
+    "model": "500SEL",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 306,
+    "manufacturer": "Daewoo",
+    "year": 1999,
+    "model": "Leganza",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 307,
+    "manufacturer": "Ford",
+    "year": 2010,
+    "model": "Expedition",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 308,
+    "manufacturer": "GMC",
+    "year": 1997,
+    "model": "2500",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 309,
+    "manufacturer": "Ford",
+    "year": 1984,
+    "model": "Mustang",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 310,
+    "manufacturer": "Hyundai",
+    "year": 2011,
+    "model": "Equus",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 311,
+    "manufacturer": "Geo",
+    "year": 1993,
+    "model": "Prizm",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 312,
+    "manufacturer": "Ford",
+    "year": 1996,
+    "model": "Thunderbird",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 313,
+    "manufacturer": "Subaru",
+    "year": 2011,
+    "model": "Forester",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 314,
+    "manufacturer": "Chrysler",
+    "year": 2010,
+    "model": "Sebring",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 315,
+    "manufacturer": "Ford",
+    "year": 2012,
+    "model": "Escape",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 316,
+    "manufacturer": "Toyota",
+    "year": 2007,
+    "model": "Tacoma",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 317,
+    "manufacturer": "Chevrolet",
+    "year": 2009,
+    "model": "Cobalt SS",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 318,
+    "manufacturer": "Volvo",
+    "year": 2006,
+    "model": "S80",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 319,
+    "manufacturer": "BMW",
+    "year": 2006,
+    "model": "X5",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 320,
+    "manufacturer": "Land Rover",
+    "year": 1993,
+    "model": "Range Rover Classic",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 321,
+    "manufacturer": "Acura",
+    "year": 1993,
+    "model": "Integra",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 322,
+    "manufacturer": "Nissan",
+    "year": 1998,
+    "model": "200SX",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 323,
+    "manufacturer": "Chevrolet",
+    "year": 2007,
+    "model": "Tahoe",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 324,
+    "manufacturer": "Mercury",
+    "year": 1990,
+    "model": "Sable",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 325,
+    "manufacturer": "Buick",
+    "year": 2012,
+    "model": "LaCrosse",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 326,
+    "manufacturer": "Chevrolet",
+    "year": 1999,
+    "model": "Monte Carlo",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 327,
+    "manufacturer": "Mitsubishi",
+    "year": 1996,
+    "model": "Mirage",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 328,
+    "manufacturer": "BMW",
+    "year": 2009,
+    "model": "X5",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 329,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2011,
+    "model": "C-Class",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 330,
+    "manufacturer": "BMW",
+    "year": 2006,
+    "model": "525",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 331,
+    "manufacturer": "Mercury",
+    "year": 2002,
+    "model": "Mountaineer",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 332,
+    "manufacturer": "Land Rover",
+    "year": 1996,
+    "model": "Range Rover",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 333,
+    "manufacturer": "Chevrolet",
+    "year": 2009,
+    "model": "Suburban",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 334,
+    "manufacturer": "Mitsubishi",
+    "year": 1991,
+    "model": "Galant",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 335,
+    "manufacturer": "Eagle",
+    "year": 1991,
+    "model": "Talon",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 336,
+    "manufacturer": "Porsche",
+    "year": 2010,
+    "model": "Boxster",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 337,
+    "manufacturer": "Porsche",
+    "year": 1987,
+    "model": "944",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 338,
+    "manufacturer": "Mitsubishi",
+    "year": 1985,
+    "model": "Mirage",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 339,
+    "manufacturer": "Pontiac",
+    "year": 1975,
+    "model": "Grand Prix",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 340,
+    "manufacturer": "GMC",
+    "year": 1997,
+    "model": "Yukon",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 341,
+    "manufacturer": "Mitsubishi",
+    "year": 2012,
+    "model": "Outlander Sport",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 342,
+    "manufacturer": "Toyota",
+    "year": 2003,
+    "model": "Tacoma",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 343,
+    "manufacturer": "Mitsubishi",
+    "year": 1986,
+    "model": "Cordia",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 344,
+    "manufacturer": "Mercury",
+    "year": 1985,
+    "model": "Lynx",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 345,
+    "manufacturer": "Lincoln",
+    "year": 2003,
+    "model": "Town Car",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 346,
+    "manufacturer": "Scion",
+    "year": 2004,
+    "model": "xB",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 347,
+    "manufacturer": "Volkswagen",
+    "year": 1991,
+    "model": "Golf",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 348,
+    "manufacturer": "Chevrolet",
+    "year": 2006,
+    "model": "SSR",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 349,
+    "manufacturer": "Toyota",
+    "year": 1982,
+    "model": "Celica",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 350,
+    "manufacturer": "Chrysler",
+    "year": 2004,
+    "model": "Crossfire",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 351,
+    "manufacturer": "Chrysler",
+    "year": 2007,
+    "model": "Pacifica",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 352,
+    "manufacturer": "Lincoln",
+    "year": 1992,
+    "model": "Mark VII",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 353,
+    "manufacturer": "Nissan",
+    "year": 1995,
+    "model": "240SX",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 354,
+    "manufacturer": "Audi",
+    "year": 1993,
+    "model": "100",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 355,
+    "manufacturer": "Infiniti",
+    "year": 2011,
+    "model": "QX",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 356,
+    "manufacturer": "GMC",
+    "year": 2005,
+    "model": "Envoy XL",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 357,
+    "manufacturer": "Kia",
+    "year": 2002,
+    "model": "Sedona",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 358,
+    "manufacturer": "Acura",
+    "year": 1995,
+    "model": "NSX",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 359,
+    "manufacturer": "Chevrolet",
+    "year": 1994,
+    "model": "Lumina",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 360,
+    "manufacturer": "Infiniti",
+    "year": 2002,
+    "model": "Q",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 361,
+    "manufacturer": "Rolls-Royce",
+    "year": 2005,
+    "model": "Phantom",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 362,
+    "manufacturer": "GMC",
+    "year": 1999,
+    "model": "Sierra 1500",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 363,
+    "manufacturer": "Toyota",
+    "year": 2007,
+    "model": "Prius",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 364,
+    "manufacturer": "Subaru",
+    "year": 2006,
+    "model": "Tribeca",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 365,
+    "manufacturer": "Volvo",
+    "year": 2006,
+    "model": "V50",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 366,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2004,
+    "model": "C-Class",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 367,
+    "manufacturer": "Toyota",
+    "year": 2003,
+    "model": "Solara",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 368,
+    "manufacturer": "Ford",
+    "year": 2013,
+    "model": "Fusion",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 369,
+    "manufacturer": "Plymouth",
+    "year": 1994,
+    "model": "Laser",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 370,
+    "manufacturer": "Lamborghini",
+    "year": 1997,
+    "model": "Diablo",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 371,
+    "manufacturer": "Toyota",
+    "year": 2012,
+    "model": "Prius v",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 372,
+    "manufacturer": "Toyota",
+    "year": 2000,
+    "model": "RAV4",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 373,
+    "manufacturer": "Ford",
+    "year": 2000,
+    "model": "Expedition",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 374,
+    "manufacturer": "Suzuki",
+    "year": 1994,
+    "model": "Samurai",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 375,
+    "manufacturer": "Volvo",
+    "year": 2007,
+    "model": "XC90",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 376,
+    "manufacturer": "Lincoln",
+    "year": 2004,
+    "model": "LS",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 377,
+    "manufacturer": "Mazda",
+    "year": 1996,
+    "model": "B-Series Plus",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 378,
+    "manufacturer": "Buick",
+    "year": 1986,
+    "model": "Regal",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 379,
+    "manufacturer": "Pontiac",
+    "year": 1964,
+    "model": "Grand Prix",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 380,
+    "manufacturer": "Acura",
+    "year": 1999,
+    "model": "SLX",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 381,
+    "manufacturer": "Chevrolet",
+    "year": 1963,
+    "model": "Corvette",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 382,
+    "manufacturer": "GMC",
+    "year": 2010,
+    "model": "Savana 2500",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 383,
+    "manufacturer": "Volvo",
+    "year": 1994,
+    "model": "940",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 384,
+    "manufacturer": "Ford",
+    "year": 1985,
+    "model": "Ranger",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 385,
+    "manufacturer": "Land Rover",
+    "year": 1995,
+    "model": "Discovery",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 386,
+    "manufacturer": "Pontiac",
+    "year": 2002,
+    "model": "Bonneville",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 387,
+    "manufacturer": "Chevrolet",
+    "year": 2005,
+    "model": "Avalanche 1500",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 388,
+    "manufacturer": "Honda",
+    "year": 2007,
+    "model": "Fit",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 389,
+    "manufacturer": "Hyundai",
+    "year": 2000,
+    "model": "Sonata",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 390,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2005,
+    "model": "SL-Class",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 391,
+    "manufacturer": "Buick",
+    "year": 1988,
+    "model": "Reatta",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 392,
+    "manufacturer": "Lexus",
+    "year": 2011,
+    "model": "ES",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 393,
+    "manufacturer": "Toyota",
+    "year": 2007,
+    "model": "Camry Hybrid",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 394,
+    "manufacturer": "Ford",
+    "year": 2002,
+    "model": "F150",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 395,
+    "manufacturer": "Mazda",
+    "year": 2012,
+    "model": "Miata MX-5",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 396,
+    "manufacturer": "Hyundai",
+    "year": 2005,
+    "model": "Tiburon",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 397,
+    "manufacturer": "Chevrolet",
+    "year": 2007,
+    "model": "Aveo",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 398,
+    "manufacturer": "Chrysler",
+    "year": 2006,
+    "model": "Crossfire Roadster",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 399,
+    "manufacturer": "Volkswagen",
+    "year": 2009,
+    "model": "Eos",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 400,
+    "manufacturer": "Mercedes-Benz",
+    "year": 1981,
+    "model": "W126",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 401,
+    "manufacturer": "Cadillac",
+    "year": 2006,
+    "model": "STS-V",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 402,
+    "manufacturer": "Ford",
+    "year": 2009,
+    "model": "Taurus X",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 403,
+    "manufacturer": "Ford",
+    "year": 1995,
+    "model": "F-Series",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 404,
+    "manufacturer": "Ford",
+    "year": 2003,
+    "model": "Escape",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 405,
+    "manufacturer": "Mazda",
+    "year": 1995,
+    "model": "RX-7",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 406,
+    "manufacturer": "Acura",
+    "year": 2004,
+    "model": "MDX",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 407,
+    "manufacturer": "Chevrolet",
+    "year": 1977,
+    "model": "Camaro",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 408,
+    "manufacturer": "Nissan",
+    "year": 1991,
+    "model": "300ZX",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 409,
+    "manufacturer": "BMW",
+    "year": 2005,
+    "model": "760",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 410,
+    "manufacturer": "Lincoln",
+    "year": 1990,
+    "model": "Town Car",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 411,
+    "manufacturer": "Audi",
+    "year": 1985,
+    "model": "4000s",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 412,
+    "manufacturer": "Honda",
+    "year": 2010,
+    "model": "Fit",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 413,
+    "manufacturer": "Mitsubishi",
+    "year": 1994,
+    "model": "Eclipse",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 414,
+    "manufacturer": "GMC",
+    "year": 2006,
+    "model": "Yukon",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 415,
+    "manufacturer": "Toyota",
+    "year": 1999,
+    "model": "Tacoma Xtra",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 416,
+    "manufacturer": "Chevrolet",
+    "year": 2012,
+    "model": "Silverado 3500",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 417,
+    "manufacturer": "Oldsmobile",
+    "year": 1995,
+    "model": "Cutlass Supreme",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 418,
+    "manufacturer": "Ford",
+    "year": 2007,
+    "model": "Mustang",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 419,
+    "manufacturer": "Jaguar",
+    "year": 2006,
+    "model": "X-Type",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 420,
+    "manufacturer": "Dodge",
+    "year": 2003,
+    "model": "Dakota",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 421,
+    "manufacturer": "GMC",
+    "year": 2001,
+    "model": "Yukon XL 1500",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 422,
+    "manufacturer": "Kia",
+    "year": 2007,
+    "model": "Rio",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 423,
+    "manufacturer": "Jeep",
+    "year": 1996,
+    "model": "Grand Cherokee",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 424,
+    "manufacturer": "Toyota",
+    "year": 1995,
+    "model": "Xtra",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 425,
+    "manufacturer": "Eagle",
+    "year": 1998,
+    "model": "Talon",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 426,
+    "manufacturer": "Mazda",
+    "year": 2000,
+    "model": "Millenia",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 427,
+    "manufacturer": "Hummer",
+    "year": 1997,
+    "model": "H1",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 428,
+    "manufacturer": "Ford",
+    "year": 2003,
+    "model": "E150",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 429,
+    "manufacturer": "Chevrolet",
+    "year": 2006,
+    "model": "Impala",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 430,
+    "manufacturer": "Pontiac",
+    "year": 1970,
+    "model": "Grand Prix",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 431,
+    "manufacturer": "Lexus",
+    "year": 2011,
+    "model": "IS",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 432,
+    "manufacturer": "Nissan",
+    "year": 2005,
+    "model": "Maxima",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 433,
+    "manufacturer": "Lexus",
+    "year": 2010,
+    "model": "IS F",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 434,
+    "manufacturer": "Acura",
+    "year": 1996,
+    "model": "TL",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 435,
+    "manufacturer": "Ford",
+    "year": 2002,
+    "model": "ZX2",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 436,
+    "manufacturer": "Volvo",
+    "year": 2009,
+    "model": "V50",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 437,
+    "manufacturer": "Mazda",
+    "year": 2009,
+    "model": "CX-7",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 438,
+    "manufacturer": "Toyota",
+    "year": 2003,
+    "model": "MR2",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 439,
+    "manufacturer": "Toyota",
+    "year": 2004,
+    "model": "Tacoma Xtra",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 440,
+    "manufacturer": "Ford",
+    "year": 1995,
+    "model": "F150",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 441,
+    "manufacturer": "Mercedes-Benz",
+    "year": 1996,
+    "model": "E-Class",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 442,
+    "manufacturer": "Chevrolet",
+    "year": 1995,
+    "model": "Lumina",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 443,
+    "manufacturer": "Cadillac",
+    "year": 1995,
+    "model": "Seville",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 444,
+    "manufacturer": "Toyota",
+    "year": 2009,
+    "model": "Camry",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 445,
+    "manufacturer": "Mitsubishi",
+    "year": 1984,
+    "model": "Mirage",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 446,
+    "manufacturer": "Lexus",
+    "year": 2010,
+    "model": "LX",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 447,
+    "manufacturer": "Dodge",
+    "year": 2010,
+    "model": "Ram 1500",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 448,
+    "manufacturer": "Dodge",
+    "year": 2000,
+    "model": "Ram Van 1500",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 449,
+    "manufacturer": "Chevrolet",
+    "year": 2010,
+    "model": "Suburban 2500",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 450,
+    "manufacturer": "Volvo",
+    "year": 2010,
+    "model": "S60",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 451,
+    "manufacturer": "Chrysler",
+    "year": 1992,
+    "model": "LeBaron",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 452,
+    "manufacturer": "Volkswagen",
+    "year": 1999,
+    "model": "Cabriolet",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 453,
+    "manufacturer": "Geo",
+    "year": 1992,
+    "model": "Prizm",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 454,
+    "manufacturer": "Lexus",
+    "year": 2008,
+    "model": "LX",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 455,
+    "manufacturer": "Ford",
+    "year": 1991,
+    "model": "Ranger",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 456,
+    "manufacturer": "Mercedes-Benz",
+    "year": 1984,
+    "model": "W201",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 457,
+    "manufacturer": "Ford",
+    "year": 1986,
+    "model": "Thunderbird",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 458,
+    "manufacturer": "Lexus",
+    "year": 2009,
+    "model": "IS",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 459,
+    "manufacturer": "Mitsubishi",
+    "year": 1998,
+    "model": "Eclipse",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 460,
+    "manufacturer": "Subaru",
+    "year": 1997,
+    "model": "Alcyone SVX",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 461,
+    "manufacturer": "Subaru",
+    "year": 2005,
+    "model": "Impreza",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 462,
+    "manufacturer": "Dodge",
+    "year": 1989,
+    "model": "Colt",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 463,
+    "manufacturer": "Chevrolet",
+    "year": 2000,
+    "model": "Tracker",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 464,
+    "manufacturer": "Hyundai",
+    "year": 2000,
+    "model": "Accent",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 465,
+    "manufacturer": "Ram",
+    "year": 2011,
+    "model": "3500",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 466,
+    "manufacturer": "Pontiac",
+    "year": 1985,
+    "model": "Parisienne",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 467,
+    "manufacturer": "Jeep",
+    "year": 1999,
+    "model": "Grand Cherokee",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 468,
+    "manufacturer": "Kia",
+    "year": 2005,
+    "model": "Sportage",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 469,
+    "manufacturer": "Chevrolet",
+    "year": 2004,
+    "model": "Express 2500",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 470,
+    "manufacturer": "Oldsmobile",
+    "year": 1993,
+    "model": "Bravada",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 471,
+    "manufacturer": "BMW",
+    "year": 2011,
+    "model": "X3",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 472,
+    "manufacturer": "Dodge",
+    "year": 1994,
+    "model": "Shadow",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 473,
+    "manufacturer": "Dodge",
+    "year": 1985,
+    "model": "Caravan",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 474,
+    "manufacturer": "Chevrolet",
+    "year": 1978,
+    "model": "Corvette",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 475,
+    "manufacturer": "Mercury",
+    "year": 2000,
+    "model": "Villager",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 476,
+    "manufacturer": "Infiniti",
+    "year": 2012,
+    "model": "G37",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 477,
+    "manufacturer": "Mitsubishi",
+    "year": 2002,
+    "model": "Diamante",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 478,
+    "manufacturer": "Toyota",
+    "year": 1989,
+    "model": "Truck Xtracab SR5",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 479,
+    "manufacturer": "Volkswagen",
+    "year": 1997,
+    "model": "Cabriolet",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 480,
+    "manufacturer": "Cadillac",
+    "year": 2006,
+    "model": "XLR-V",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 481,
+    "manufacturer": "Ford",
+    "year": 1989,
+    "model": "Thunderbird",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 482,
+    "manufacturer": "Honda",
+    "year": 1988,
+    "model": "CR-X",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 483,
+    "manufacturer": "Ford",
+    "year": 1992,
+    "model": "Explorer",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 484,
+    "manufacturer": "Volkswagen",
+    "year": 2010,
+    "model": "Routan",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 485,
+    "manufacturer": "Dodge",
+    "year": 1999,
+    "model": "Avenger",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 486,
+    "manufacturer": "Nissan",
+    "year": 1998,
+    "model": "240SX",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 487,
+    "manufacturer": "Buick",
+    "year": 1999,
+    "model": "Century",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 488,
+    "manufacturer": "Pontiac",
+    "year": 1987,
+    "model": "Firefly",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 489,
+    "manufacturer": "Chrysler",
+    "year": 1997,
+    "model": "Cirrus",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 490,
+    "manufacturer": "GMC",
+    "year": 2005,
+    "model": "Envoy",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 491,
+    "manufacturer": "GMC",
+    "year": 2012,
+    "model": "Savana",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 492,
+    "manufacturer": "Lincoln",
+    "year": 2009,
+    "model": "MKX",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 493,
+    "manufacturer": "Ford",
+    "year": 2000,
+    "model": "Contour",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 494,
+    "manufacturer": "Pontiac",
+    "year": 1975,
+    "model": "Grand Prix",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 495,
+    "manufacturer": "Nissan",
+    "year": 2003,
+    "model": "350Z",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 496,
+    "manufacturer": "Saturn",
+    "year": 2008,
+    "model": "VUE",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 497,
+    "manufacturer": "Mercedes-Benz",
+    "year": 1993,
+    "model": "300SL",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 498,
+    "manufacturer": "Eagle",
+    "year": 1990,
+    "model": "Talon",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 499,
+    "manufacturer": "Mazda",
+    "year": 1993,
+    "model": "B-Series",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 500,
+    "manufacturer": "Audi",
+    "year": 1996,
+    "model": "riolet",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 501,
+    "manufacturer": "Ford",
+    "year": 2006,
+    "model": "Explorer",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 502,
+    "manufacturer": "BMW",
+    "year": 2009,
+    "model": "Z4 M Roadster",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 503,
+    "manufacturer": "Lincoln",
+    "year": 2004,
+    "model": "Aviator",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 504,
+    "manufacturer": "Chrysler",
+    "year": 2008,
+    "model": "Crossfire",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 505,
+    "manufacturer": "Mazda",
+    "year": 1987,
+    "model": "B2600",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 506,
+    "manufacturer": "Aston Martin",
+    "year": 2006,
+    "model": "V8 Vantage",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 507,
+    "manufacturer": "Kia",
+    "year": 2007,
+    "model": "Amanti",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 508,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2011,
+    "model": "E-Class",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 509,
+    "manufacturer": "Pontiac",
+    "year": 1985,
+    "model": "Sunbird",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 510,
+    "manufacturer": "Jaguar",
+    "year": 2013,
+    "model": "XK Series",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 511,
+    "manufacturer": "Nissan",
+    "year": 2006,
+    "model": "Quest",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 512,
+    "manufacturer": "Mitsubishi",
+    "year": 1987,
+    "model": "Cordia",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 513,
+    "manufacturer": "Chrysler",
+    "year": 2001,
+    "model": "Concorde",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 514,
+    "manufacturer": "Chrysler",
+    "year": 2012,
+    "model": "300",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 515,
+    "manufacturer": "Chevrolet",
+    "year": 1967,
+    "model": "Corvette",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 516,
+    "manufacturer": "Mazda",
+    "year": 1993,
+    "model": "Miata MX-5",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 517,
+    "manufacturer": "Hyundai",
+    "year": 2008,
+    "model": "Tiburon",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 518,
+    "manufacturer": "Pontiac",
+    "year": 1967,
+    "model": "LeMans",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 519,
+    "manufacturer": "Chevrolet",
+    "year": 2009,
+    "model": "Cobalt SS",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 520,
+    "manufacturer": "Porsche",
+    "year": 1985,
+    "model": "911",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 521,
+    "manufacturer": "Chevrolet",
+    "year": 2012,
+    "model": "Silverado 1500",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 522,
+    "manufacturer": "Chevrolet",
+    "year": 2006,
+    "model": "Aveo",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 523,
+    "manufacturer": "Dodge",
+    "year": 2003,
+    "model": "Neon",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 524,
+    "manufacturer": "BMW",
+    "year": 2006,
+    "model": "530",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 525,
+    "manufacturer": "Ford",
+    "year": 2005,
+    "model": "Explorer Sport Trac",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 526,
+    "manufacturer": "Buick",
+    "year": 2006,
+    "model": "Rainier",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 527,
+    "manufacturer": "Dodge",
+    "year": 1999,
+    "model": "Intrepid",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 528,
+    "manufacturer": "Chrysler",
+    "year": 1992,
+    "model": "Imperial",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 529,
+    "manufacturer": "Audi",
+    "year": 1986,
+    "model": "5000S",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 530,
+    "manufacturer": "Ford",
+    "year": 1985,
+    "model": "Escort",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 531,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2004,
+    "model": "CL-Class",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 532,
+    "manufacturer": "Ford",
+    "year": 2007,
+    "model": "F-Series Super Duty",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 533,
+    "manufacturer": "Chevrolet",
+    "year": 2001,
+    "model": "Express 3500",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 534,
+    "manufacturer": "Dodge",
+    "year": 1999,
+    "model": "Ram 1500 Club",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 535,
+    "manufacturer": "Volkswagen",
+    "year": 2004,
+    "model": "Jetta",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 536,
+    "manufacturer": "Acura",
+    "year": 1998,
+    "model": "CL",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 537,
+    "manufacturer": "Chevrolet",
+    "year": 1999,
+    "model": "Suburban 1500",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 538,
+    "manufacturer": "GMC",
+    "year": 2008,
+    "model": "Savana",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 539,
+    "manufacturer": "Mazda",
+    "year": 1992,
+    "model": "929",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 540,
+    "manufacturer": "Buick",
+    "year": 2010,
+    "model": "Lucerne",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 541,
+    "manufacturer": "Isuzu",
+    "year": 1993,
+    "model": "Rodeo",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 542,
+    "manufacturer": "Cadillac",
+    "year": 1993,
+    "model": "Fleetwood",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 543,
+    "manufacturer": "Infiniti",
+    "year": 1995,
+    "model": "G",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 544,
+    "manufacturer": "Lincoln",
+    "year": 2002,
+    "model": "Blackwood",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 545,
+    "manufacturer": "Hummer",
+    "year": 2004,
+    "model": "H2",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 546,
+    "manufacturer": "GMC",
+    "year": 2004,
+    "model": "Yukon XL 2500",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 547,
+    "manufacturer": "GMC",
+    "year": 1994,
+    "model": "1500",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 548,
+    "manufacturer": "Chrysler",
+    "year": 2007,
+    "model": "300",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 549,
+    "manufacturer": "Dodge",
+    "year": 2004,
+    "model": "Grand Caravan",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 550,
+    "manufacturer": "Lamborghini",
+    "year": 2006,
+    "model": "Murciélago",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 551,
+    "manufacturer": "Land Rover",
+    "year": 2002,
+    "model": "Freelander",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 552,
+    "manufacturer": "Buick",
+    "year": 2000,
+    "model": "Park Avenue",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 553,
+    "manufacturer": "Lexus",
+    "year": 2010,
+    "model": "GX",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 554,
+    "manufacturer": "Volkswagen",
+    "year": 1992,
+    "model": "Jetta",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 555,
+    "manufacturer": "Hyundai",
+    "year": 2005,
+    "model": "Tucson",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 556,
+    "manufacturer": "Mitsubishi",
+    "year": 2004,
+    "model": "Endeavor",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 557,
+    "manufacturer": "Acura",
+    "year": 1998,
+    "model": "CL",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 558,
+    "manufacturer": "GMC",
+    "year": 1999,
+    "model": "2500",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 559,
+    "manufacturer": "Pontiac",
+    "year": 1999,
+    "model": "Firebird",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 560,
+    "manufacturer": "MINI",
+    "year": 2012,
+    "model": "Cooper Countryman",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 561,
+    "manufacturer": "Ford",
+    "year": 2003,
+    "model": "Escape",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 562,
+    "manufacturer": "Volvo",
+    "year": 1998,
+    "model": "S90",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 563,
+    "manufacturer": "Cadillac",
+    "year": 1997,
+    "model": "DeVille",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 564,
+    "manufacturer": "Mercedes-Benz",
+    "year": 1984,
+    "model": "S-Class",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 565,
+    "manufacturer": "Pontiac",
+    "year": 1995,
+    "model": "Grand Prix",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 566,
+    "manufacturer": "Subaru",
+    "year": 1992,
+    "model": "Alcyone SVX",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 567,
+    "manufacturer": "Pontiac",
+    "year": 1987,
+    "model": "Chevette",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 568,
+    "manufacturer": "Infiniti",
+    "year": 2010,
+    "model": "M",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 569,
+    "manufacturer": "Honda",
+    "year": 2011,
+    "model": "Civic",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 570,
+    "manufacturer": "Cadillac",
+    "year": 2008,
+    "model": "XLR-V",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 571,
+    "manufacturer": "Porsche",
+    "year": 2007,
+    "model": "Boxster",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 572,
+    "manufacturer": "Mercedes-Benz",
+    "year": 1992,
+    "model": "300TE",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 573,
+    "manufacturer": "Lincoln",
+    "year": 1990,
+    "model": "Town Car",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 574,
+    "manufacturer": "Acura",
+    "year": 2000,
+    "model": "TL",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 575,
+    "manufacturer": "BMW",
+    "year": 2007,
+    "model": "Alpina B7",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 576,
+    "manufacturer": "Lamborghini",
+    "year": 2008,
+    "model": "Gallardo",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 577,
+    "manufacturer": "Chevrolet",
+    "year": 2006,
+    "model": "Silverado",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 578,
+    "manufacturer": "BMW",
+    "year": 2007,
+    "model": "X3",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 579,
+    "manufacturer": "Ford",
+    "year": 1972,
+    "model": "Mustang",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 580,
+    "manufacturer": "Mercury",
+    "year": 2010,
+    "model": "Mariner",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 581,
+    "manufacturer": "Audi",
+    "year": 1985,
+    "model": "Quattro",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 582,
+    "manufacturer": "Buick",
+    "year": 2005,
+    "model": "LeSabre",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 583,
+    "manufacturer": "Chevrolet",
+    "year": 1995,
+    "model": "1500",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 584,
+    "manufacturer": "Ford",
+    "year": 1990,
+    "model": "Mustang",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 585,
+    "manufacturer": "GMC",
+    "year": 1993,
+    "model": "Jimmy",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 586,
+    "manufacturer": "Maserati",
+    "year": 1990,
+    "model": "Spyder",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 587,
+    "manufacturer": "Geo",
+    "year": 1997,
+    "model": "Tracker",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 588,
+    "manufacturer": "Dodge",
+    "year": 2012,
+    "model": "Avenger",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 589,
+    "manufacturer": "Cadillac",
+    "year": 1997,
+    "model": "Eldorado",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 590,
+    "manufacturer": "GMC",
+    "year": 2006,
+    "model": "Savana",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 591,
+    "manufacturer": "Ford",
+    "year": 1997,
+    "model": "Windstar",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 592,
+    "manufacturer": "GMC",
+    "year": 1992,
+    "model": "2500",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 593,
+    "manufacturer": "Ford",
+    "year": 1990,
+    "model": "E-Series",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 594,
+    "manufacturer": "Buick",
+    "year": 1993,
+    "model": "Century",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 595,
+    "manufacturer": "Hyundai",
+    "year": 2006,
+    "model": "Santa Fe",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 596,
+    "manufacturer": "Lincoln",
+    "year": 2002,
+    "model": "Navigator",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 597,
+    "manufacturer": "Ford",
+    "year": 2006,
+    "model": "F-250 Super Duty",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 598,
+    "manufacturer": "Volvo",
+    "year": 2011,
+    "model": "XC60",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 599,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2012,
+    "model": "Sprinter 3500",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 600,
+    "manufacturer": "Kia",
+    "year": 1999,
+    "model": "Sportage",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 601,
+    "manufacturer": "Mazda",
+    "year": 1997,
+    "model": "MPV",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 602,
+    "manufacturer": "Pontiac",
+    "year": 2004,
+    "model": "Grand Prix",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 603,
+    "manufacturer": "Lexus",
+    "year": 1997,
+    "model": "LX",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 604,
+    "manufacturer": "Saab",
+    "year": 1995,
+    "model": "900",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 605,
+    "manufacturer": "BMW",
+    "year": 2002,
+    "model": "530",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 606,
+    "manufacturer": "Toyota",
+    "year": 2010,
+    "model": "RAV4",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 607,
+    "manufacturer": "Toyota",
+    "year": 2004,
+    "model": "Sienna",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 608,
+    "manufacturer": "Mercedes-Benz",
+    "year": 1986,
+    "model": "SL-Class",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 609,
+    "manufacturer": "Toyota",
+    "year": 2000,
+    "model": "Tacoma Xtra",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 610,
+    "manufacturer": "Ford",
+    "year": 1991,
+    "model": "Escort",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 611,
+    "manufacturer": "Saturn",
+    "year": 2003,
+    "model": "L-Series",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 612,
+    "manufacturer": "Chevrolet",
+    "year": 2011,
+    "model": "Camaro",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 613,
+    "manufacturer": "Ford",
+    "year": 2006,
+    "model": "F-Series",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 614,
+    "manufacturer": "Mazda",
+    "year": 2003,
+    "model": "B-Series Plus",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 615,
+    "manufacturer": "Kia",
+    "year": 2009,
+    "model": "Optima",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 616,
+    "manufacturer": "Saab",
+    "year": 2000,
+    "model": "9-3",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 617,
+    "manufacturer": "Toyota",
+    "year": 1983,
+    "model": "Celica",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 618,
+    "manufacturer": "Nissan",
+    "year": 2005,
+    "model": "Quest",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 619,
+    "manufacturer": "Ford",
+    "year": 2010,
+    "model": "Expedition",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 620,
+    "manufacturer": "Audi",
+    "year": 2010,
+    "model": "A4",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 621,
+    "manufacturer": "Oldsmobile",
+    "year": 2000,
+    "model": "Intrigue",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 622,
+    "manufacturer": "Lamborghini",
+    "year": 2010,
+    "model": "Gallardo",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 623,
+    "manufacturer": "Mazda",
+    "year": 1990,
+    "model": "MX-6",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 624,
+    "manufacturer": "Suzuki",
+    "year": 2007,
+    "model": "Forenza",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 625,
+    "manufacturer": "Jeep",
+    "year": 1992,
+    "model": "Cherokee",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 626,
+    "manufacturer": "Austin",
+    "year": 1963,
+    "model": "Mini",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 627,
+    "manufacturer": "Dodge",
+    "year": 1996,
+    "model": "Intrepid",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 628,
+    "manufacturer": "MINI",
+    "year": 2011,
+    "model": "Clubman",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 629,
+    "manufacturer": "Audi",
+    "year": 2011,
+    "model": "S4",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 630,
+    "manufacturer": "Dodge",
+    "year": 1992,
+    "model": "Ram Wagon B250",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 631,
+    "manufacturer": "Ford",
+    "year": 2002,
+    "model": "Crown Victoria",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 632,
+    "manufacturer": "Suzuki",
+    "year": 1993,
+    "model": "Samurai",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 633,
+    "manufacturer": "Hyundai",
+    "year": 2012,
+    "model": "Santa Fe",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 634,
+    "manufacturer": "Mercury",
+    "year": 1996,
+    "model": "Tracer",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 635,
+    "manufacturer": "Maserati",
+    "year": 2005,
+    "model": "Gran Sport",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 636,
+    "manufacturer": "Eagle",
+    "year": 1990,
+    "model": "Talon",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 637,
+    "manufacturer": "Ford",
+    "year": 1986,
+    "model": "Aerostar",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 638,
+    "manufacturer": "Volvo",
+    "year": 2002,
+    "model": "V70",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 639,
+    "manufacturer": "Hummer",
+    "year": 2003,
+    "model": "H1",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 640,
+    "manufacturer": "Saturn",
+    "year": 2007,
+    "model": "Relay",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 641,
+    "manufacturer": "Hyundai",
+    "year": 2005,
+    "model": "Santa Fe",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 642,
+    "manufacturer": "Dodge",
+    "year": 1993,
+    "model": "Grand Caravan",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 643,
+    "manufacturer": "GMC",
+    "year": 2001,
+    "model": "Sierra 2500",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 644,
+    "manufacturer": "Kia",
+    "year": 2000,
+    "model": "Spectra",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 645,
+    "manufacturer": "Cadillac",
+    "year": 1992,
+    "model": "Fleetwood",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 646,
+    "manufacturer": "Isuzu",
+    "year": 1999,
+    "model": "Hombre Space",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 647,
+    "manufacturer": "Mazda",
+    "year": 1993,
+    "model": "MX-6",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 648,
+    "manufacturer": "Ford",
+    "year": 2001,
+    "model": "Escort",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 649,
+    "manufacturer": "Suzuki",
+    "year": 2004,
+    "model": "Grand Vitara",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 650,
+    "manufacturer": "Mazda",
+    "year": 2004,
+    "model": "MX-5",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 651,
+    "manufacturer": "Mitsubishi",
+    "year": 1995,
+    "model": "GTO",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 652,
+    "manufacturer": "Pontiac",
+    "year": 2007,
+    "model": "Torrent",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 653,
+    "manufacturer": "Infiniti",
+    "year": 2003,
+    "model": "M",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 654,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2008,
+    "model": "SL-Class",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 655,
+    "manufacturer": "Dodge",
+    "year": 2008,
+    "model": "Ram 2500",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 656,
+    "manufacturer": "Porsche",
+    "year": 2011,
+    "model": "Boxster",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 657,
+    "manufacturer": "Chevrolet",
+    "year": 1974,
+    "model": "Camaro",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 658,
+    "manufacturer": "Mazda",
+    "year": 2012,
+    "model": "CX-9",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 659,
+    "manufacturer": "Mazda",
+    "year": 1994,
+    "model": "Navajo",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 660,
+    "manufacturer": "Infiniti",
+    "year": 2004,
+    "model": "I",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 661,
+    "manufacturer": "Ford",
+    "year": 2003,
+    "model": "Thunderbird",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 662,
+    "manufacturer": "Suzuki",
+    "year": 1995,
+    "model": "Sidekick",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 663,
+    "manufacturer": "Volkswagen",
+    "year": 1991,
+    "model": "Cabriolet",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 664,
+    "manufacturer": "Porsche",
+    "year": 2004,
+    "model": "Cayenne",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 665,
+    "manufacturer": "Acura",
+    "year": 2007,
+    "model": "TL",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 666,
+    "manufacturer": "Lamborghini",
+    "year": 2009,
+    "model": "Murciélago",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 667,
+    "manufacturer": "Dodge",
+    "year": 2008,
+    "model": "Challenger",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 668,
+    "manufacturer": "Ferrari",
+    "year": 2009,
+    "model": "F430",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 669,
+    "manufacturer": "Audi",
+    "year": 2002,
+    "model": "S8",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 670,
+    "manufacturer": "Lexus",
+    "year": 2000,
+    "model": "GS",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 671,
+    "manufacturer": "Lotus",
+    "year": 2010,
+    "model": "Elise",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 672,
+    "manufacturer": "Suzuki",
+    "year": 2000,
+    "model": "Swift",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 673,
+    "manufacturer": "Audi",
+    "year": 2012,
+    "model": "A7",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 674,
+    "manufacturer": "Porsche",
+    "year": 2002,
+    "model": "Boxster",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 675,
+    "manufacturer": "Pontiac",
+    "year": 1998,
+    "model": "Grand Am",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 676,
+    "manufacturer": "Porsche",
+    "year": 2012,
+    "model": "Cayman",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 677,
+    "manufacturer": "Suzuki",
+    "year": 2011,
+    "model": "SX4",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 678,
+    "manufacturer": "Lexus",
+    "year": 2011,
+    "model": "LS",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 679,
+    "manufacturer": "Cadillac",
+    "year": 2003,
+    "model": "DeVille",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 680,
+    "manufacturer": "Lamborghini",
+    "year": 2005,
+    "model": "Gallardo",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 681,
+    "manufacturer": "Maserati",
+    "year": 1985,
+    "model": "Quattroporte",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 682,
+    "manufacturer": "Chevrolet",
+    "year": 2013,
+    "model": "Cruze",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 683,
+    "manufacturer": "Mitsubishi",
+    "year": 2002,
+    "model": "Eclipse",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 684,
+    "manufacturer": "Volkswagen",
+    "year": 2008,
+    "model": "Rabbit",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 685,
+    "manufacturer": "Subaru",
+    "year": 2011,
+    "model": "Tribeca",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 686,
+    "manufacturer": "Mercedes-Benz",
+    "year": 1989,
+    "model": "E-Class",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 687,
+    "manufacturer": "Volvo",
+    "year": 2000,
+    "model": "V40",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 688,
+    "manufacturer": "Hummer",
+    "year": 2009,
+    "model": "H2",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 689,
+    "manufacturer": "Lexus",
+    "year": 1998,
+    "model": "ES",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 690,
+    "manufacturer": "Mazda",
+    "year": 2003,
+    "model": "Tribute",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 691,
+    "manufacturer": "Nissan",
+    "year": 2007,
+    "model": "Frontier",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 692,
+    "manufacturer": "Mitsubishi",
+    "year": 2001,
+    "model": "Pajero",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 693,
+    "manufacturer": "Aston Martin",
+    "year": 2007,
+    "model": "Vantage",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 694,
+    "manufacturer": "Hyundai",
+    "year": 1995,
+    "model": "Elantra",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 695,
+    "manufacturer": "Honda",
+    "year": 2010,
+    "model": "Civic",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 696,
+    "manufacturer": "Nissan",
+    "year": 2001,
+    "model": "Frontier",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 697,
+    "manufacturer": "Subaru",
+    "year": 1995,
+    "model": "Legacy",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 698,
+    "manufacturer": "Jeep",
+    "year": 2009,
+    "model": "Commander",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 699,
+    "manufacturer": "Audi",
+    "year": 2006,
+    "model": "TT",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 700,
+    "manufacturer": "Mazda",
+    "year": 2006,
+    "model": "MX-5",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 701,
+    "manufacturer": "Volkswagen",
+    "year": 2004,
+    "model": "Phaeton",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 702,
+    "manufacturer": "Chrysler",
+    "year": 2002,
+    "model": "PT Cruiser",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 703,
+    "manufacturer": "Suzuki",
+    "year": 2004,
+    "model": "Aerio",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 704,
+    "manufacturer": "Jaguar",
+    "year": 2004,
+    "model": "S-Type",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 705,
+    "manufacturer": "Lexus",
+    "year": 2011,
+    "model": "LS",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 706,
+    "manufacturer": "Eagle",
+    "year": 1993,
+    "model": "Vision",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 707,
+    "manufacturer": "Volvo",
+    "year": 2012,
+    "model": "C70",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 708,
+    "manufacturer": "Audi",
+    "year": 2000,
+    "model": "A6",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 709,
+    "manufacturer": "Honda",
+    "year": 1996,
+    "model": "Prelude",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 710,
+    "manufacturer": "BMW",
+    "year": 2004,
+    "model": "545",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 711,
+    "manufacturer": "BMW",
+    "year": 2000,
+    "model": "Z8",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 712,
+    "manufacturer": "Porsche",
+    "year": 2012,
+    "model": "Cayenne",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 713,
+    "manufacturer": "Audi",
+    "year": 2000,
+    "model": "A6",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 714,
+    "manufacturer": "Chevrolet",
+    "year": 2005,
+    "model": "Classic",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 715,
+    "manufacturer": "Honda",
+    "year": 1994,
+    "model": "del Sol",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 716,
+    "manufacturer": "Infiniti",
+    "year": 2012,
+    "model": "G",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 717,
+    "manufacturer": "Buick",
+    "year": 1990,
+    "model": "Reatta",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 718,
+    "manufacturer": "Volkswagen",
+    "year": 1993,
+    "model": "Jetta III",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 719,
+    "manufacturer": "Lexus",
+    "year": 1992,
+    "model": "ES",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 720,
+    "manufacturer": "Buick",
+    "year": 2011,
+    "model": "Regal",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 721,
+    "manufacturer": "Pontiac",
+    "year": 2007,
+    "model": "G6",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 722,
+    "manufacturer": "Subaru",
+    "year": 1985,
+    "model": "Brat",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 723,
+    "manufacturer": "Chevrolet",
+    "year": 2007,
+    "model": "Suburban",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 724,
+    "manufacturer": "Dodge",
+    "year": 1996,
+    "model": "Ram 1500",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 725,
+    "manufacturer": "Toyota",
+    "year": 2003,
+    "model": "Avalon",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 726,
+    "manufacturer": "Volvo",
+    "year": 2008,
+    "model": "V50",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 727,
+    "manufacturer": "Cadillac",
+    "year": 2007,
+    "model": "STS",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 728,
+    "manufacturer": "Chrysler",
+    "year": 2004,
+    "model": "Concorde",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 729,
+    "manufacturer": "Aston Martin",
+    "year": 2011,
+    "model": "V8 Vantage S",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 730,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2007,
+    "model": "S-Class",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 731,
+    "manufacturer": "Mercury",
+    "year": 1999,
+    "model": "Grand Marquis",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 732,
+    "manufacturer": "Buick",
+    "year": 1987,
+    "model": "Skyhawk",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 733,
+    "manufacturer": "Toyota",
+    "year": 2005,
+    "model": "Avalon",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 734,
+    "manufacturer": "Chevrolet",
+    "year": 2009,
+    "model": "Tahoe",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 735,
+    "manufacturer": "Lotus",
+    "year": 2004,
+    "model": "Esprit",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 736,
+    "manufacturer": "Pontiac",
+    "year": 1990,
+    "model": "Trans Sport",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 737,
+    "manufacturer": "Spyker",
+    "year": 2004,
+    "model": "C8 Laviolette",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 738,
+    "manufacturer": "Bentley",
+    "year": 2009,
+    "model": "Continental GTC",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 739,
+    "manufacturer": "Ford",
+    "year": 2005,
+    "model": "E150",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 740,
+    "manufacturer": "Kia",
+    "year": 2001,
+    "model": "Rio",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 741,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2008,
+    "model": "SLR McLaren",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 742,
+    "manufacturer": "Maybach",
+    "year": 2006,
+    "model": "57",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 743,
+    "manufacturer": "Suzuki",
+    "year": 1997,
+    "model": "X-90",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 744,
+    "manufacturer": "Toyota",
+    "year": 2000,
+    "model": "MR2",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 745,
+    "manufacturer": "Toyota",
+    "year": 2007,
+    "model": "Land Cruiser",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 746,
+    "manufacturer": "Chrysler",
+    "year": 2000,
+    "model": "Concorde",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 747,
+    "manufacturer": "Jeep",
+    "year": 2011,
+    "model": "Compass",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 748,
+    "manufacturer": "Dodge",
+    "year": 2004,
+    "model": "Durango",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 749,
+    "manufacturer": "Volkswagen",
+    "year": 2013,
+    "model": "CC",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 750,
+    "manufacturer": "Mercury",
+    "year": 2001,
+    "model": "Villager",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 751,
+    "manufacturer": "Chevrolet",
+    "year": 1999,
+    "model": "Silverado 1500",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 752,
+    "manufacturer": "Cadillac",
+    "year": 2003,
+    "model": "Escalade EXT",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 753,
+    "manufacturer": "Dodge",
+    "year": 2001,
+    "model": "Viper",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 754,
+    "manufacturer": "Ford",
+    "year": 1996,
+    "model": "Explorer",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 755,
+    "manufacturer": "Chrysler",
+    "year": 2009,
+    "model": "300",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 756,
+    "manufacturer": "Jaguar",
+    "year": 2006,
+    "model": "XJ",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 757,
+    "manufacturer": "Chevrolet",
+    "year": 1993,
+    "model": "Lumina",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 758,
+    "manufacturer": "Land Rover",
+    "year": 2001,
+    "model": "Range Rover",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 759,
+    "manufacturer": "GMC",
+    "year": 2012,
+    "model": "Yukon",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 760,
+    "manufacturer": "Infiniti",
+    "year": 1992,
+    "model": "Q",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 761,
+    "manufacturer": "Hummer",
+    "year": 2010,
+    "model": "H3T",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 762,
+    "manufacturer": "Pontiac",
+    "year": 1999,
+    "model": "Trans Sport",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 763,
+    "manufacturer": "Toyota",
+    "year": 2010,
+    "model": "RAV4",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 764,
+    "manufacturer": "Land Rover",
+    "year": 2010,
+    "model": "Defender Ice Edition",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 765,
+    "manufacturer": "Pontiac",
+    "year": 1990,
+    "model": "LeMans",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 766,
+    "manufacturer": "Hyundai",
+    "year": 2011,
+    "model": "Santa Fe",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 767,
+    "manufacturer": "Honda",
+    "year": 1999,
+    "model": "Odyssey",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 768,
+    "manufacturer": "BMW",
+    "year": 2004,
+    "model": "5 Series",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 769,
+    "manufacturer": "Studebaker",
+    "year": 1961,
+    "model": "Avanti",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 770,
+    "manufacturer": "Lincoln",
+    "year": 2007,
+    "model": "MKX",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 771,
+    "manufacturer": "Volkswagen",
+    "year": 1991,
+    "model": "Jetta",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 772,
+    "manufacturer": "GMC",
+    "year": 2005,
+    "model": "Sierra 2500",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 773,
+    "manufacturer": "Chevrolet",
+    "year": 2001,
+    "model": "Astro",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 774,
+    "manufacturer": "Dodge",
+    "year": 1998,
+    "model": "Ram 1500",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 775,
+    "manufacturer": "Toyota",
+    "year": 1996,
+    "model": "Celica",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 776,
+    "manufacturer": "Chrysler",
+    "year": 2008,
+    "model": "Pacifica",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 777,
+    "manufacturer": "Pontiac",
+    "year": 1992,
+    "model": "Trans Sport",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 778,
+    "manufacturer": "Chevrolet",
+    "year": 1999,
+    "model": "Suburban 1500",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 779,
+    "manufacturer": "Oldsmobile",
+    "year": 1999,
+    "model": "Intrigue",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 780,
+    "manufacturer": "Audi",
+    "year": 2012,
+    "model": "A8",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 781,
+    "manufacturer": "Mitsubishi",
+    "year": 1995,
+    "model": "3000GT",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 782,
+    "manufacturer": "Mazda",
+    "year": 1997,
+    "model": "Miata MX-5",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 783,
+    "manufacturer": "Isuzu",
+    "year": 2003,
+    "model": "Ascender",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 784,
+    "manufacturer": "Suzuki",
+    "year": 2004,
+    "model": "Forenza",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 785,
+    "manufacturer": "Ford",
+    "year": 2007,
+    "model": "Expedition EL",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 786,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2012,
+    "model": "G-Class",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 787,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2007,
+    "model": "GL-Class",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 788,
+    "manufacturer": "Cadillac",
+    "year": 2012,
+    "model": "CTS",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 789,
+    "manufacturer": "Isuzu",
+    "year": 1998,
+    "model": "Hombre",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 790,
+    "manufacturer": "Audi",
+    "year": 2009,
+    "model": "S8",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 791,
+    "manufacturer": "Porsche",
+    "year": 2005,
+    "model": "911",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 792,
+    "manufacturer": "Lexus",
+    "year": 2004,
+    "model": "LX",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 793,
+    "manufacturer": "Mitsubishi",
+    "year": 1994,
+    "model": "Mighty Max Macro",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 794,
+    "manufacturer": "Toyota",
+    "year": 1994,
+    "model": "Tercel",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 795,
+    "manufacturer": "Mazda",
+    "year": 1993,
+    "model": "MX-6",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 796,
+    "manufacturer": "Volkswagen",
+    "year": 2012,
+    "model": "CC",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 797,
+    "manufacturer": "Ford",
+    "year": 2011,
+    "model": "E250",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 798,
+    "manufacturer": "Pontiac",
+    "year": 1999,
+    "model": "Montana",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 799,
+    "manufacturer": "Subaru",
+    "year": 1985,
+    "model": "XT",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 800,
+    "manufacturer": "Chevrolet",
+    "year": 1999,
+    "model": "3500",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 801,
+    "manufacturer": "Honda",
+    "year": 2012,
+    "model": "Crosstour",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 802,
+    "manufacturer": "Nissan",
+    "year": 2007,
+    "model": "Quest",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 803,
+    "manufacturer": "Volkswagen",
+    "year": 1991,
+    "model": "Fox",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 804,
+    "manufacturer": "Cadillac",
+    "year": 1992,
+    "model": "Brougham",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 805,
+    "manufacturer": "Pontiac",
+    "year": 2002,
+    "model": "Aztek",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 806,
+    "manufacturer": "Mercury",
+    "year": 2005,
+    "model": "Monterey",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 807,
+    "manufacturer": "Hummer",
+    "year": 2006,
+    "model": "H1",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 808,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2009,
+    "model": "C-Class",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 809,
+    "manufacturer": "Chevrolet",
+    "year": 1995,
+    "model": "Suburban 2500",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 810,
+    "manufacturer": "Ford",
+    "year": 1994,
+    "model": "Ranger",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 811,
+    "manufacturer": "Ford",
+    "year": 2012,
+    "model": "Flex",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 812,
+    "manufacturer": "Buick",
+    "year": 1993,
+    "model": "Coachbuilder",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 813,
+    "manufacturer": "Infiniti",
+    "year": 2009,
+    "model": "FX",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 814,
+    "manufacturer": "Mitsubishi",
+    "year": 2000,
+    "model": "Galant",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 815,
+    "manufacturer": "Infiniti",
+    "year": 2002,
+    "model": "G",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 816,
+    "manufacturer": "Pontiac",
+    "year": 2000,
+    "model": "Firebird",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 817,
+    "manufacturer": "Mazda",
+    "year": 1990,
+    "model": "626",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 818,
+    "manufacturer": "Chevrolet",
+    "year": 1991,
+    "model": "Caprice",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 819,
+    "manufacturer": "Nissan",
+    "year": 1997,
+    "model": "Maxima",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 820,
+    "manufacturer": "Buick",
+    "year": 1998,
+    "model": "Regal",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 821,
+    "manufacturer": "Lexus",
+    "year": 1995,
+    "model": "LS",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 822,
+    "manufacturer": "Acura",
+    "year": 1999,
+    "model": "Integra",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 823,
+    "manufacturer": "Toyota",
+    "year": 2009,
+    "model": "Matrix",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 824,
+    "manufacturer": "Toyota",
+    "year": 2002,
+    "model": "Tacoma",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 825,
+    "manufacturer": "Mazda",
+    "year": 2006,
+    "model": "MX-5",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 826,
+    "manufacturer": "Mercedes-Benz",
+    "year": 1997,
+    "model": "E-Class",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 827,
+    "manufacturer": "Porsche",
+    "year": 2009,
+    "model": "Cayenne",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 828,
+    "manufacturer": "Chevrolet",
+    "year": 1995,
+    "model": "Blazer",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 829,
+    "manufacturer": "Isuzu",
+    "year": 2001,
+    "model": "Trooper",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 830,
+    "manufacturer": "Mazda",
+    "year": 1995,
+    "model": "MPV",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 831,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2011,
+    "model": "Sprinter 2500",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 832,
+    "manufacturer": "Dodge",
+    "year": 1995,
+    "model": "Ram Van 1500",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 833,
+    "manufacturer": "Dodge",
+    "year": 2001,
+    "model": "Dakota Club",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 834,
+    "manufacturer": "Audi",
+    "year": 2012,
+    "model": "A7",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 835,
+    "manufacturer": "Ford",
+    "year": 2008,
+    "model": "Mustang",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 836,
+    "manufacturer": "Kia",
+    "year": 2008,
+    "model": "Rondo",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 837,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2005,
+    "model": "SLR McLaren",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 838,
+    "manufacturer": "Land Rover",
+    "year": 2008,
+    "model": "Range Rover Sport",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 839,
+    "manufacturer": "Ford",
+    "year": 1991,
+    "model": "Mustang",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 840,
+    "manufacturer": "Cadillac",
+    "year": 2003,
+    "model": "Seville",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 841,
+    "manufacturer": "Suzuki",
+    "year": 2007,
+    "model": "SX4",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 842,
+    "manufacturer": "Saab",
+    "year": 2000,
+    "model": "9-3",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 843,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2006,
+    "model": "CLK-Class",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 844,
+    "manufacturer": "Dodge",
+    "year": 2003,
+    "model": "Dakota",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 845,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2007,
+    "model": "SL-Class",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 846,
+    "manufacturer": "Ford",
+    "year": 1985,
+    "model": "LTD Crown Victoria",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 847,
+    "manufacturer": "Saturn",
+    "year": 2002,
+    "model": "VUE",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 848,
+    "manufacturer": "Ford",
+    "year": 2011,
+    "model": "Explorer",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 849,
+    "manufacturer": "Jaguar",
+    "year": 2003,
+    "model": "S-Type",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 850,
+    "manufacturer": "Mitsubishi",
+    "year": 2007,
+    "model": "Eclipse",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 851,
+    "manufacturer": "Acura",
+    "year": 2012,
+    "model": "MDX",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 852,
+    "manufacturer": "Mazda",
+    "year": 1990,
+    "model": "RX-7",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 853,
+    "manufacturer": "Lexus",
+    "year": 1999,
+    "model": "RX",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 854,
+    "manufacturer": "Cadillac",
+    "year": 2008,
+    "model": "Escalade",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 855,
+    "manufacturer": "Studebaker",
+    "year": 1963,
+    "model": "Avanti",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 856,
+    "manufacturer": "Buick",
+    "year": 1989,
+    "model": "Reatta",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 857,
+    "manufacturer": "Buick",
+    "year": 1999,
+    "model": "Century",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 858,
+    "manufacturer": "Volkswagen",
+    "year": 2012,
+    "model": "Eos",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 859,
+    "manufacturer": "Suzuki",
+    "year": 2007,
+    "model": "XL-7",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 860,
+    "manufacturer": "Scion",
+    "year": 2006,
+    "model": "xB",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 861,
+    "manufacturer": "Volvo",
+    "year": 2007,
+    "model": "S80",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 862,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2008,
+    "model": "G-Class",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 863,
+    "manufacturer": "Suzuki",
+    "year": 1997,
+    "model": "Sidekick",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 864,
+    "manufacturer": "Land Rover",
+    "year": 2011,
+    "model": "Freelander",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 865,
+    "manufacturer": "MINI",
+    "year": 2009,
+    "model": "Clubman",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 866,
+    "manufacturer": "Mitsubishi",
+    "year": 2003,
+    "model": "Outlander",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 867,
+    "manufacturer": "Hyundai",
+    "year": 2004,
+    "model": "Elantra",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 868,
+    "manufacturer": "Nissan",
+    "year": 1998,
+    "model": "200SX",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 869,
+    "manufacturer": "Jeep",
+    "year": 1993,
+    "model": "Wrangler",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 870,
+    "manufacturer": "Pontiac",
+    "year": 1989,
+    "model": "Grand Prix",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 871,
+    "manufacturer": "Mitsubishi",
+    "year": 2009,
+    "model": "Endeavor",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 872,
+    "manufacturer": "Hummer",
+    "year": 1995,
+    "model": "H1",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 873,
+    "manufacturer": "Audi",
+    "year": 2002,
+    "model": "TT",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 874,
+    "manufacturer": "Mazda",
+    "year": 1991,
+    "model": "626",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 875,
+    "manufacturer": "Chevrolet",
+    "year": 1987,
+    "model": "Corvette",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 876,
+    "manufacturer": "Ford",
+    "year": 2001,
+    "model": "Escort",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 877,
+    "manufacturer": "Mercury",
+    "year": 1999,
+    "model": "Sable",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 878,
+    "manufacturer": "Acura",
+    "year": 1997,
+    "model": "CL",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 879,
+    "manufacturer": "Volvo",
+    "year": 1993,
+    "model": "240",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 880,
+    "manufacturer": "Saab",
+    "year": 2011,
+    "model": "9-4X",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 881,
+    "manufacturer": "Lexus",
+    "year": 1994,
+    "model": "GS",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 882,
+    "manufacturer": "Nissan",
+    "year": 2006,
+    "model": "Frontier",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 883,
+    "manufacturer": "Ferrari",
+    "year": 2007,
+    "model": "612 Scaglietti",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 884,
+    "manufacturer": "Honda",
+    "year": 2003,
+    "model": "CR-V",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 885,
+    "manufacturer": "Honda",
+    "year": 2010,
+    "model": "CR-V",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 886,
+    "manufacturer": "Pontiac",
+    "year": 1986,
+    "model": "6000",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 887,
+    "manufacturer": "Mercury",
+    "year": 2002,
+    "model": "Mountaineer",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 888,
+    "manufacturer": "Chevrolet",
+    "year": 1975,
+    "model": "Monza",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 889,
+    "manufacturer": "Acura",
+    "year": 1999,
+    "model": "Integra",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 890,
+    "manufacturer": "Toyota",
+    "year": 1993,
+    "model": "MR2",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 891,
+    "manufacturer": "Chevrolet",
+    "year": 1999,
+    "model": "Metro",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 892,
+    "manufacturer": "GMC",
+    "year": 2003,
+    "model": "Sierra 1500",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 893,
+    "manufacturer": "Nissan",
+    "year": 2002,
+    "model": "Altima",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 894,
+    "manufacturer": "Chevrolet",
+    "year": 2005,
+    "model": "Aveo",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 895,
+    "manufacturer": "Land Rover",
+    "year": 2008,
+    "model": "Freelander",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 896,
+    "manufacturer": "Hyundai",
+    "year": 2009,
+    "model": "Sonata",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 897,
+    "manufacturer": "Volvo",
+    "year": 2005,
+    "model": "V50",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 898,
+    "manufacturer": "Nissan",
+    "year": 1995,
+    "model": "Sentra",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 899,
+    "manufacturer": "Lexus",
+    "year": 1997,
+    "model": "LS",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 900,
+    "manufacturer": "Jeep",
+    "year": 2008,
+    "model": "Patriot",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 901,
+    "manufacturer": "Audi",
+    "year": 1993,
+    "model": "90",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 902,
+    "manufacturer": "Dodge",
+    "year": 2009,
+    "model": "Ram 3500",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 903,
+    "manufacturer": "Pontiac",
+    "year": 2003,
+    "model": "Montana",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 904,
+    "manufacturer": "Geo",
+    "year": 1994,
+    "model": "Tracker",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 905,
+    "manufacturer": "MINI",
+    "year": 2006,
+    "model": "Cooper",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 906,
+    "manufacturer": "BMW",
+    "year": 2006,
+    "model": "750",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 907,
+    "manufacturer": "Jaguar",
+    "year": 2000,
+    "model": "S-Type",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 908,
+    "manufacturer": "Chevrolet",
+    "year": 2012,
+    "model": "Traverse",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 909,
+    "manufacturer": "Toyota",
+    "year": 2004,
+    "model": "Sequoia",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 910,
+    "manufacturer": "Chevrolet",
+    "year": 2007,
+    "model": "Suburban 2500",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 911,
+    "manufacturer": "Saturn",
+    "year": 2007,
+    "model": "Relay",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 912,
+    "manufacturer": "Chevrolet",
+    "year": 2005,
+    "model": "TrailBlazer",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 913,
+    "manufacturer": "Acura",
+    "year": 1994,
+    "model": "Vigor",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 914,
+    "manufacturer": "Mazda",
+    "year": 1998,
+    "model": "B-Series Plus",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 915,
+    "manufacturer": "Cadillac",
+    "year": 2005,
+    "model": "SRX",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 916,
+    "manufacturer": "Oldsmobile",
+    "year": 1997,
+    "model": "Regency",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 917,
+    "manufacturer": "Volvo",
+    "year": 1999,
+    "model": "S70",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 918,
+    "manufacturer": "Lexus",
+    "year": 2007,
+    "model": "LS",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 919,
+    "manufacturer": "Isuzu",
+    "year": 2008,
+    "model": "i-370",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 920,
+    "manufacturer": "GMC",
+    "year": 2004,
+    "model": "Savana 2500",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 921,
+    "manufacturer": "Acura",
+    "year": 1994,
+    "model": "Legend",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 922,
+    "manufacturer": "Mercury",
+    "year": 1997,
+    "model": "Tracer",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 923,
+    "manufacturer": "Lexus",
+    "year": 2008,
+    "model": "GX",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 924,
+    "manufacturer": "Dodge",
+    "year": 2009,
+    "model": "Dakota",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 925,
+    "manufacturer": "BMW",
+    "year": 2009,
+    "model": "M3",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 926,
+    "manufacturer": "Ford",
+    "year": 2006,
+    "model": "E-350 Super Duty Van",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 927,
+    "manufacturer": "Maserati",
+    "year": 1991,
+    "model": "Spyder",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 928,
+    "manufacturer": "Mitsubishi",
+    "year": 1994,
+    "model": "Precis",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 929,
+    "manufacturer": "Mitsubishi",
+    "year": 2002,
+    "model": "Montero Sport",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 930,
+    "manufacturer": "Chevrolet",
+    "year": 2006,
+    "model": "Impala",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 931,
+    "manufacturer": "Chevrolet",
+    "year": 1955,
+    "model": "Corvette",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 932,
+    "manufacturer": "Volvo",
+    "year": 1996,
+    "model": "850",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 933,
+    "manufacturer": "Dodge",
+    "year": 2008,
+    "model": "Caravan",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 934,
+    "manufacturer": "Audi",
+    "year": 2008,
+    "model": "A6",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 935,
+    "manufacturer": "Chrysler",
+    "year": 1995,
+    "model": "Sebring",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 936,
+    "manufacturer": "Nissan",
+    "year": 2012,
+    "model": "Sentra",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 937,
+    "manufacturer": "Dodge",
+    "year": 2011,
+    "model": "Durango",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 938,
+    "manufacturer": "Mitsubishi",
+    "year": 2000,
+    "model": "Eclipse",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 939,
+    "manufacturer": "Chevrolet",
+    "year": 2009,
+    "model": "Silverado",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 940,
+    "manufacturer": "Saturn",
+    "year": 2004,
+    "model": "Ion",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 941,
+    "manufacturer": "Chevrolet",
+    "year": 1999,
+    "model": "S10",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 942,
+    "manufacturer": "Audi",
+    "year": 1993,
+    "model": "Quattro",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 943,
+    "manufacturer": "Lincoln",
+    "year": 2012,
+    "model": "MKS",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 944,
+    "manufacturer": "Chevrolet",
+    "year": 1953,
+    "model": "Corvette",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 945,
+    "manufacturer": "Honda",
+    "year": 1994,
+    "model": "del Sol",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 946,
+    "manufacturer": "Mazda",
+    "year": 2003,
+    "model": "Mazda6",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 947,
+    "manufacturer": "Scion",
+    "year": 2012,
+    "model": "xB",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 948,
+    "manufacturer": "Chrysler",
+    "year": 2006,
+    "model": "PT Cruiser",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 949,
+    "manufacturer": "Pontiac",
+    "year": 1985,
+    "model": "Bonneville",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 950,
+    "manufacturer": "Dodge",
+    "year": 1998,
+    "model": "Ram Van 3500",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 951,
+    "manufacturer": "Chevrolet",
+    "year": 1966,
+    "model": "Corvette",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 952,
+    "manufacturer": "Volvo",
+    "year": 2005,
+    "model": "S60",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 953,
+    "manufacturer": "Honda",
+    "year": 2002,
+    "model": "Passport",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 954,
+    "manufacturer": "Mazda",
+    "year": 2001,
+    "model": "Miata MX-5",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 955,
+    "manufacturer": "Chevrolet",
+    "year": 1985,
+    "model": "Corvette",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 956,
+    "manufacturer": "Ford",
+    "year": 1992,
+    "model": "Econoline E150",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 957,
+    "manufacturer": "Chevrolet",
+    "year": 2011,
+    "model": "Silverado",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 958,
+    "manufacturer": "Jeep",
+    "year": 1999,
+    "model": "Wrangler",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 959,
+    "manufacturer": "Chevrolet",
+    "year": 2004,
+    "model": "Silverado 3500",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 960,
+    "manufacturer": "Toyota",
+    "year": 2005,
+    "model": "Matrix",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 961,
+    "manufacturer": "Merkur",
+    "year": 1985,
+    "model": "XR4Ti",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 962,
+    "manufacturer": "Infiniti",
+    "year": 2005,
+    "model": "G",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 963,
+    "manufacturer": "Aston Martin",
+    "year": 2010,
+    "model": "V8 Vantage",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 964,
+    "manufacturer": "Lexus",
+    "year": 1999,
+    "model": "GS",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 965,
+    "manufacturer": "Chevrolet",
+    "year": 2004,
+    "model": "Avalanche 1500",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 966,
+    "manufacturer": "Saab",
+    "year": 2008,
+    "model": "9-3",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 967,
+    "manufacturer": "Mitsubishi",
+    "year": 2001,
+    "model": "Montero Sport",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 968,
+    "manufacturer": "Toyota",
+    "year": 2007,
+    "model": "Avalon",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 969,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2004,
+    "model": "E-Class",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 970,
+    "manufacturer": "Lincoln",
+    "year": 2005,
+    "model": "Aviator",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 971,
+    "manufacturer": "Plymouth",
+    "year": 1994,
+    "model": "Colt Vista",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 972,
+    "manufacturer": "Buick",
+    "year": 1986,
+    "model": "Electra",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 973,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2012,
+    "model": "CL-Class",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 974,
+    "manufacturer": "Lincoln",
+    "year": 1997,
+    "model": "Town Car",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 975,
+    "manufacturer": "Chevrolet",
+    "year": 2002,
+    "model": "Silverado 3500",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 976,
+    "manufacturer": "Ford",
+    "year": 2005,
+    "model": "E150",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 977,
+    "manufacturer": "Mercedes-Benz",
+    "year": 2009,
+    "model": "GL-Class",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 978,
+    "manufacturer": "Porsche",
+    "year": 2012,
+    "model": "Cayenne",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 979,
+    "manufacturer": "Ford",
+    "year": 2002,
+    "model": "E-Series",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 980,
+    "manufacturer": "Mazda",
+    "year": 2002,
+    "model": "626",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 981,
+    "manufacturer": "Honda",
+    "year": 1994,
+    "model": "Accord",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 982,
+    "manufacturer": "Isuzu",
+    "year": 1997,
+    "model": "Hombre",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 983,
+    "manufacturer": "Infiniti",
+    "year": 2010,
+    "model": "QX",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 984,
+    "manufacturer": "Maserati",
+    "year": 2012,
+    "model": "GranTurismo",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 985,
+    "manufacturer": "Chevrolet",
+    "year": 1958,
+    "model": "Corvette",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 986,
+    "manufacturer": "Toyota",
+    "year": 2008,
+    "model": "Highlander",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 987,
+    "manufacturer": "Mitsubishi",
+    "year": 2010,
+    "model": "Galant",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 988,
+    "manufacturer": "Lincoln",
+    "year": 2004,
+    "model": "Town Car",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 989,
+    "manufacturer": "Mazda",
+    "year": 2010,
+    "model": "Mazda5",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 990,
+    "manufacturer": "Lexus",
+    "year": 2002,
+    "model": "IS",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 991,
+    "manufacturer": "Mazda",
+    "year": 1990,
+    "model": "626",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "rear"
+  },
+  {
+    "id": 992,
+    "manufacturer": "Honda",
+    "year": 1999,
+    "model": "Accord",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 993,
+    "manufacturer": "Lincoln",
+    "year": 2012,
+    "model": "Navigator L",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 994,
+    "manufacturer": "Chrysler",
+    "year": 2007,
+    "model": "Aspen",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 995,
+    "manufacturer": "Volkswagen",
+    "year": 1995,
+    "model": "Golf III",
+    "fuel": "gas",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 996,
+    "manufacturer": "Chevrolet",
+    "year": 2001,
+    "model": "Express 2500",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "front"
+  },
+  {
+    "id": 997,
+    "manufacturer": "Mitsubishi",
+    "year": 1991,
+    "model": "GTO",
+    "fuel": "gas",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 998,
+    "manufacturer": "BMW",
+    "year": 2004,
+    "model": "530",
+    "fuel": "diesel",
+    "num_of_doors": "two",
+    "engine": "rear"
+  },
+  {
+    "id": 999,
+    "manufacturer": "BMW",
+    "year": 1994,
+    "model": "8 Series",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "front"
+  },
+  {
+    "id": 1000,
+    "manufacturer": "Mitsubishi",
+    "year": 2000,
+    "model": "Challenger",
+    "fuel": "diesel",
+    "num_of_doors": "four",
+    "engine": "rear"
+  }
+]
