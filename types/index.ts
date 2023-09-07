@@ -29,7 +29,7 @@ export interface HomeProps {
 
 export interface CarCardProps {
   model: string;
-  make: string;
+  manufacturer: string;
   mpg: number;
   transmission: string;
   year: number;

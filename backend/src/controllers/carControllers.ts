@@ -3,10 +3,10 @@ import { Request, Response } from "express";
 
 // fetch cars data
 const fetchCars = async (req: Request, res: Response)=>{
-  
+  const { manufacturer, model, fuel, num_of_doors, engine, limit } = req.query;
+  const filter = {manufacturer, model, fuel, num_of_doors, engine};
   try {
-    const cars = await CarModel.find().limit(10);
-    console.log(cars)
+    const cars = await CarModel.find({filter}).limit(Number(limit));
     return res.status(200).json(cars);
   } catch (error: any) {
     return res.status(500).json({ message: error.message });
@@ -30,9 +30,9 @@ const addCar = async (req: Request, res: Response) => {
     });
 
     await car.save();
-    res.status(201).json({ message: "Created Successfully." });
+    return res.status(201).json({ message: "Created Successfully." });
   } catch (error: any) {
-    res.status(500).json({ message: error.message });
+    return res.status(500).json({ message: error.message });
   }
 };
 
@@ -40,9 +40,9 @@ const deleteCar = async (req: Request, res: Response) => {
   try {
     const { id } = req.params;
     await CarModel.deleteOne({ id: id });
-    res.status(200).json({ message: "Deleted Successfully." });
+    return res.status(200).json({ message: "Deleted Successfully." });
   } catch (error: any) {
-    res.status(500).json({ message: error.message });
+    return res.status(500).json({ message: error.message });
   }
 }
 
