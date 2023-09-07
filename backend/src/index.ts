@@ -8,7 +8,7 @@ const port = 3001;
 
 app.use(carRoutes);
 
-mongoose.connect('mongodb://127.0.0.1:27017/car_showcase').then(()=> console.log('db connected')).
+mongoose.connect('mongodb://127.0.0.1:27017/car_heaven').then(()=> console.log('db connected')).
   catch(error => console.log(error));
 
 app.listen(port, () => {

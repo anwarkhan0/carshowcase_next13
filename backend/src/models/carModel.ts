@@ -2,26 +2,36 @@ import { Schema, model, connect } from 'mongoose';
 
 // 1. Create an interface representing a document in MongoDB.
 interface ICar {
-    id: Number,
-    manufacturer: String,
-    year: Number,
-    model: String,
-    fuel: String,
-    num_of_doors: String,
-    engine: String,
+    city_mpg: number;
+    class: string;
+    combination_mpg: number;
+    cylinders: number;
+    displacement: number;
+    drive?: string;
+    fuel_type: string;
+    highway_mpg: number;
+    manufacturer: string;
+    model: string;
+    transmission: string;
+    year: number;
     img: String
 }
 
 // 2. Create a Schema corresponding to the document interface.
 const userSchema = new Schema<ICar>({
-    id: Number,
+    city_mpg: {type: Number, required: true},
+    class: {type: String, required: true},
+    combination_mpg: {type: Number, required: true},
+    cylinders: {type: Number, required: true},
+    displacement: {type: Number, required: true},
+    drive: {type: String, required: false},
+    fuel_type: {type: String, required: true},
+    highway_mpg: {type: Number, required: true},
     manufacturer: {type: String, required: true},
-    year: {type: String, required: true},
     model: {type: String, required: true},
-    fuel: {type: String, required: true},
-    num_of_doors: {type: String, required: true},
-    engine: {type: String, required: true},
-    img: {type: String, required: true}
+    transmission: {type: String, required: true},
+    year: {type: Number, required: true},
+    img: {type: String, required: false}
 });
 
 // 3. Create a Model.

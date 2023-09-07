@@ -13,7 +13,7 @@ interface CarCardProps {
 }
 
 const CarCard = ({ car }: CarCardProps) => {
-  const { city_mpg, year, make, model, transmission, drive } = car;
+  const { city_mpg, year, manufacturer, model, transmission, drive } = car;
 
   const [isOpen, setIsOpen] = useState(false);
 
@@ -23,7 +23,7 @@ const CarCard = ({ car }: CarCardProps) => {
     <div className="car-card group">
       <div className="car-card__content">
         <h2 className="car-card__content-title">
-          {make} {model}
+          {manufacturer} {model}
         </h2>
       </div>
 

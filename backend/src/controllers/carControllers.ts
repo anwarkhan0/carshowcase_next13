@@ -6,9 +6,10 @@ const fetchCars = async (req: Request, res: Response)=>{
   
   try {
     const cars = await CarModel.find().limit(10);
-    res.status(200).json(cars);
+    console.log(cars)
+    return res.status(200).json(cars);
   } catch (error: any) {
-    res.status(500).json({ message: error.message });
+    return res.status(500).json({ message: error.message });
   }
 
 }
