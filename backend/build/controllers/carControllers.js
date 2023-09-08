@@ -16,10 +16,10 @@ exports.deleteCar = exports.fetchCars = exports.addCar = void 0;
 const carModel_1 = __importDefault(require("../models/carModel"));
 // fetch cars data
 const fetchCars = (req, res) => __awaiter(void 0, void 0, void 0, function* () {
-    console.log(req.query);
     const { manufacturer, model, fuel, num_of_doors, engine, limit } = req.query;
+    const filter = { manufacturer, model, fuel, num_of_doors, engine };
     try {
-        const cars = yield carModel_1.default.find().limit(Number(limit));
+        const cars = yield carModel_1.default.find({ filter }).limit(Number(limit));
         return res.status(200).json(cars);
     }
     catch (error) {
@@ -41,10 +41,10 @@ const addCar = (req, res) => __awaiter(void 0, void 0, void 0, function* () {
             engine,
         });
         yield car.save();
-        res.status(201).json({ message: "Created Successfully." });
+        return res.status(201).json({ message: "Created Successfully." });
     }
     catch (error) {
-        res.status(500).json({ message: error.message });
+        return res.status(500).json({ message: error.message });
     }
 });
 exports.addCar = addCar;
@@ -52,10 +52,10 @@ const deleteCar = (req, res) => __awaiter(void 0, void 0, void 0, function* () {
     try {
         const { id } = req.params;
         yield carModel_1.default.deleteOne({ id: id });
-        res.status(200).json({ message: "Deleted Successfully." });
+        return res.status(200).json({ message: "Deleted Successfully." });
     }
     catch (error) {
-        res.status(500).json({ message: error.message });
+        return res.status(500).json({ message: error.message });
     }
 });
 exports.deleteCar = deleteCar;
