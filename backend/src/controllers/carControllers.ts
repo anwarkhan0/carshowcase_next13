@@ -4,9 +4,10 @@ import { Request, Response } from "express";
 // fetch cars data
 const fetchCars = async (req: Request, res: Response)=>{
   const { manufacturer, model, fuel, num_of_doors, engine, limit } = req.query;
-  const filter = {manufacturer, model, fuel, num_of_doors, engine};
+  let filter ;
+  manufacturer ? filter.push({manufacturer: manufacturer}) : '';
   try {
-    const cars = await CarModel.find({filter}).limit(Number(limit));
+    const cars = await CarModel.find(filter).limit(Number(limit));
     return res.status(200).json(cars);
   } catch (error: any) {
     return res.status(500).json({ message: error.message });

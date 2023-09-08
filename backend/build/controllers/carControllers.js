@@ -19,7 +19,7 @@ const fetchCars = (req, res) => __awaiter(void 0, void 0, void 0, function* () {
     const { manufacturer, model, fuel, num_of_doors, engine, limit } = req.query;
     const filter = { manufacturer, model, fuel, num_of_doors, engine };
     try {
-        const cars = yield carModel_1.default.find({ filter }).limit(Number(limit));
+        const cars = yield carModel_1.default.find(filter).limit(Number(limit));
         return res.status(200).json(cars);
     }
     catch (error) {
