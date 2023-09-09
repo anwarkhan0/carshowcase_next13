@@ -16,10 +16,18 @@ exports.deleteCar = exports.fetchCars = exports.addCar = void 0;
 const carModel_1 = __importDefault(require("../models/carModel"));
 // fetch cars data
 const fetchCars = (req, res) => __awaiter(void 0, void 0, void 0, function* () {
-    const { manufacturer, model, fuel, num_of_doors, engine, limit } = req.query;
-    const filter = { manufacturer, model, fuel, num_of_doors, engine };
+    const { manufacturer, model, fuel, year, limit } = req.query;
+    let filter = {};
+    if (manufacturer)
+        filter.manufacturer = manufacturer;
+    if (model)
+        filter.model = model;
+    if (fuel)
+        filter.fuel_type = fuel;
+    if (year)
+        filter.year = year;
     try {
-        const cars = yield carModel_1.default.find(filter).limit(Number(limit));
+        const cars = yield carModel_1.default.find(filter).limit(Number(limit) || 10);
         return res.status(200).json(cars);
     }
     catch (error) {

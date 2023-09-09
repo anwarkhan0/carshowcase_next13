@@ -3,11 +3,15 @@ import { Request, Response } from "express";
 
 // fetch cars data
 const fetchCars = async (req: Request, res: Response)=>{
-  const { manufacturer, model, fuel, num_of_doors, engine, limit } = req.query;
-  let filter ;
-  manufacturer ? filter.push({manufacturer: manufacturer}) : '';
+  const { manufacturer, model, fuel, year, limit } = req.query;
+  let filter: any = {};
+  if(manufacturer) filter.manufacturer = manufacturer;
+  if(model) filter.model = model;
+  if(fuel) filter.fuel_type = fuel;
+  if(year) filter.year = year;
+  
   try {
-    const cars = await CarModel.find(filter).limit(Number(limit));
+    const cars = await CarModel.find(filter).limit(Number(limit) || 10);
     return res.status(200).json(cars);
   } catch (error: any) {
     return res.status(500).json({ message: error.message });
