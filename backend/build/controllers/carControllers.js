@@ -18,14 +18,18 @@ const carModel_1 = __importDefault(require("../models/carModel"));
 const fetchCars = (req, res) => __awaiter(void 0, void 0, void 0, function* () {
     const { manufacturer, model, fuel, year, limit } = req.query;
     let filter = {};
-    if (manufacturer)
-        filter.manufacturer = manufacturer;
-    if (model)
-        filter.model = model;
+    if (typeof manufacturer === 'string' && manufacturer.length > 0) {
+        const firstCharacter = manufacturer.charAt(0);
+        const capitalizedString = firstCharacter.toUpperCase() + manufacturer.slice(1);
+        filter.manufacturer = capitalizedString;
+    }
+    if (typeof model === 'string' && model.length > 0) {
+        const firstCharacter = model.charAt(0);
+        const capitalizedString = firstCharacter.toUpperCase() + model.slice(1);
+        filter.model = capitalizedString;
+    }
     if (fuel)
         filter.fuel_type = fuel;
-    if (year)
-        filter.year = year;
     try {
         const cars = yield carModel_1.default.find(filter).limit(Number(limit) || 10);
         return res.status(200).json(cars);

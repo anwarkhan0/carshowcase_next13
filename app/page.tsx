@@ -6,7 +6,7 @@ import { CarCard, ShowMore, SearchBar, CustomFilter, Hero } from "@components";
 export default async function Home({ searchParams }: HomeProps) {
   const allCars = await fetchCars({
     manufacturer: searchParams.manufacturer || "",
-    year: searchParams.year || 2022,
+    // year: searchParams.year || "",
     fuel: searchParams.fuel || "",
     limit: searchParams.limit || 10,
     model: searchParams.model || "",
@@ -29,7 +29,7 @@ export default async function Home({ searchParams }: HomeProps) {
 
           <div className='home__filter-container'>
             <CustomFilter title='fuel' options={fuels} />
-            <CustomFilter title='year' options={yearsOfProduction} />
+            {/* <CustomFilter title='year' options={yearsOfProduction} /> */}
           </div>
         </div>
 

@@ -4,12 +4,19 @@ import { Request, Response } from "express";
 // fetch cars data
 const fetchCars = async (req: Request, res: Response)=>{
   const { manufacturer, model, fuel, year, limit } = req.query;
-  let filter: any = {};
-  if(manufacturer) filter.manufacturer = manufacturer;
-  if(model) filter.model = model;
-  if(fuel) filter.fuel_type = fuel;
-  if(year) filter.year = year;
   
+  let filter: any = {};
+  if (typeof manufacturer === 'string' && manufacturer.length > 0) {
+    const firstCharacter = manufacturer.charAt(0);
+    const capitalizedString = firstCharacter.toUpperCase() + manufacturer.slice(1);
+    filter.manufacturer = capitalizedString;
+  }
+  if (typeof model === 'string' && model.length > 0) {
+    const firstCharacter = model.charAt(0);
+    const capitalizedString = firstCharacter.toUpperCase() + model.slice(1);
+    filter.model = capitalizedString;
+  }
+  if(fuel) filter.fuel_type = fuel;
   try {
     const cars = await CarModel.find(filter).limit(Number(limit) || 10);
     return res.status(200).json(cars);

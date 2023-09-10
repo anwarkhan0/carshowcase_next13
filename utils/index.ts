@@ -44,7 +44,6 @@ export const deleteSearchParams = (type: string) => {
 
 export async function fetchCars(filters: FilterProps) {
   const { manufacturer, year, model, limit, fuel } = filters;
-
   // Set the required headers for the API request
   const headers: HeadersInit = {
     "X-RapidAPI-Key": process.env.NEXT_PUBLIC_RAPID_API_KEY || "",
@@ -53,9 +52,10 @@ export async function fetchCars(filters: FilterProps) {
 
   // Set the required headers for the API request
   const response = await fetch(
-    `http://localhost:3001/cars?manufacturer=${manufacturer}&year=${year}&model=${model}&limit=${limit}&fuel_type=${fuel}`,
+    `http://localhost:3001/cars?manufacturer=${manufacturer}&year=${year}&model=${model}&limit=${limit}&fuel=${fuel}`,
     {
       headers: headers,
+      cache: "no-cache",
     }
   );
 

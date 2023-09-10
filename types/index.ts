@@ -17,7 +17,7 @@ export interface CarProps {
 
 export interface FilterProps {
   manufacturer?: string;
-  year?: number;
+  year?: string;
   model?: string;
   limit?: number;
   fuel?: string;
