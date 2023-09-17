@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 
-import { CustomButton } from "@components";
+import { CustomButton, PromptSearch } from "@components";
 
 const Hero = () => {
   const handleScroll = () => {
@@ -21,9 +21,9 @@ const Hero = () => {
         </h1>
 
         <p className="hero__subtitle">
-          Streamline your car rental experience with our effortless booking
-          process.
+          Hi! Tell me about your trip, I will show you cars which suit your needs.
         </p>
+        <PromptSearch />
 
         <CustomButton
           title="Explore Cars"

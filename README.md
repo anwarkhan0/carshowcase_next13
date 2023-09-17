@@ -2,7 +2,7 @@
 ![Car Showcase](https://i.ibb.co/GxvFJDZ/Thumbnail.png)
 
 ## Introduction
-This GitHub repository hosts my customized car rental app, built upon a foundation from a YouTube tutorial. I've enhanced the app by incorporating additional features and functionalities to provide users with an even better experience. Explore the codebase to see the modifications and improvements made to this open-source project.
+This GitHub repository hosts my customized car rental app, built upon a foundation from a YouTube tutorial from channel called javascriptMastery. I've enhanced the app by incorporating additional features and functionalities to provide users with an even better experience. Explore the codebase to see the modifications and improvements made to this open-source project.
 
  
 Functionalities:
