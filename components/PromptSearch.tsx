@@ -5,7 +5,7 @@ import { CustomButton } from '@components';
 function PromptSearch() {
   const [prompt, setPrompt] = useState('');
   const handleSubmit = ()=>{
-    alert(prompt)
+    //chatgpt logi here
   }
   const handlePrompt = (prompt: string)=>{
     setPrompt(prompt);
